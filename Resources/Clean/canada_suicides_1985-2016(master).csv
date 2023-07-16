@@ -1,0 +1,349 @@
+,Country,Year,Sex,Age,Number of Suicides,Suicides per 100k,GDP for Year ($),GDP per Capita ($),Generation
+4916,Canada,1985,male,75+ years,111,28.45,"364,756,499,451",15522,G.I. Generation
+4917,Canada,1985,male,55-74 years,502,27.27,"364,756,499,451",15522,G.I. Generation
+4918,Canada,1985,male,25-34 years,605,27.0,"364,756,499,451",15522,Boomers
+4919,Canada,1985,male,35-54 years,774,25.4,"364,756,499,451",15522,Silent
+4920,Canada,1985,male,15-24 years,560,25.17,"364,756,499,451",15522,Generation X
+4921,Canada,1985,female,35-54 years,255,8.43,"364,756,499,451",15522,Silent
+4922,Canada,1985,female,55-74 years,166,7.93,"364,756,499,451",15522,G.I. Generation
+4923,Canada,1985,female,25-34 years,148,6.56,"364,756,499,451",15522,Boomers
+4924,Canada,1985,female,75+ years,34,5.29,"364,756,499,451",15522,G.I. Generation
+4925,Canada,1985,female,15-24 years,85,3.97,"364,756,499,451",15522,Generation X
+4926,Canada,1985,male,5-14 years,13,0.7,"364,756,499,451",15522,Generation X
+4927,Canada,1985,female,5-14 years,5,0.29,"364,756,499,451",15522,Generation X
+4928,Canada,1986,male,75+ years,143,36.26,"377,437,927,312",16062,G.I. Generation
+4929,Canada,1986,male,25-34 years,719,31.97,"377,437,927,312",16062,Boomers
+4930,Canada,1986,male,35-54 years,878,28.34,"377,437,927,312",16062,Silent
+4931,Canada,1986,male,55-74 years,520,27.91,"377,437,927,312",16062,G.I. Generation
+4932,Canada,1986,male,15-24 years,570,26.93,"377,437,927,312",16062,Generation X
+4933,Canada,1986,female,35-54 years,307,9.94,"377,437,927,312",16062,Silent
+4934,Canada,1986,female,55-74 years,191,9.03,"377,437,927,312",16062,G.I. Generation
+4935,Canada,1986,female,25-34 years,172,7.55,"377,437,927,312",16062,Boomers
+4936,Canada,1986,female,75+ years,36,5.51,"377,437,927,312",16062,G.I. Generation
+4937,Canada,1986,female,15-24 years,109,5.29,"377,437,927,312",16062,Generation X
+4938,Canada,1986,male,5-14 years,20,1.09,"377,437,927,312",16062,Generation X
+4939,Canada,1986,female,5-14 years,5,0.29,"377,437,927,312",16062,Generation X
+4940,Canada,1987,male,25-34 years,709,30.95,"431,316,742,081",18124,Boomers
+4941,Canada,1987,male,75+ years,117,28.63,"431,316,742,081",18124,G.I. Generation
+4942,Canada,1987,male,55-74 years,535,28.2,"431,316,742,081",18124,G.I. Generation
+4943,Canada,1987,male,35-54 years,874,27.49,"431,316,742,081",18124,Silent
+4944,Canada,1987,male,15-24 years,532,25.52,"431,316,742,081",18124,Generation X
+4945,Canada,1987,female,35-54 years,298,9.38,"431,316,742,081",18124,Silent
+4946,Canada,1987,female,55-74 years,171,7.96,"431,316,742,081",18124,G.I. Generation
+4947,Canada,1987,female,25-34 years,178,7.68,"431,316,742,081",18124,Boomers
+4948,Canada,1987,female,75+ years,47,6.92,"431,316,742,081",18124,G.I. Generation
+4949,Canada,1987,female,15-24 years,100,4.95,"431,316,742,081",18124,Generation X
+4950,Canada,1987,male,5-14 years,25,1.36,"431,316,742,081",18124,Generation X
+4951,Canada,1987,female,5-14 years,5,0.29,"431,316,742,081",18124,Generation X
+4952,Canada,1988,male,75+ years,130,30.6,"507,354,351,182",21069,G.I. Generation
+4953,Canada,1988,male,25-34 years,679,29.19,"507,354,351,182",21069,Boomers
+4954,Canada,1988,male,55-74 years,525,27.27,"507,354,351,182",21069,G.I. Generation
+4955,Canada,1988,male,15-24 years,549,26.89,"507,354,351,182",21069,Generation X
+4956,Canada,1988,male,35-54 years,827,25.31,"507,354,351,182",21069,Silent
+4957,Canada,1988,female,35-54 years,322,9.83,"507,354,351,182",21069,Silent
+4958,Canada,1988,female,25-34 years,168,7.15,"507,354,351,182",21069,Boomers
+4959,Canada,1988,female,55-74 years,142,6.53,"507,354,351,182",21069,G.I. Generation
+4960,Canada,1988,female,75+ years,44,6.21,"507,354,351,182",21069,G.I. Generation
+4961,Canada,1988,female,15-24 years,96,4.88,"507,354,351,182",21069,Generation X
+4962,Canada,1988,male,5-14 years,24,1.29,"507,354,351,182",21069,Generation X
+4963,Canada,1988,female,5-14 years,4,0.23,"507,354,351,182",21069,Generation X
+4964,Canada,1989,male,75+ years,131,29.46,"565,055,743,243",23188,G.I. Generation
+4965,Canada,1989,male,25-34 years,666,28.31,"565,055,743,243",23188,Boomers
+4966,Canada,1989,male,15-24 years,528,26.44,"565,055,743,243",23188,Generation X
+4967,Canada,1989,male,55-74 years,501,25.75,"565,055,743,243",23188,G.I. Generation
+4968,Canada,1989,male,35-54 years,850,25.25,"565,055,743,243",23188,Silent
+4969,Canada,1989,female,35-54 years,322,9.51,"565,055,743,243",23188,Silent
+4970,Canada,1989,female,55-74 years,163,7.42,"565,055,743,243",23188,G.I. Generation
+4971,Canada,1989,female,25-34 years,174,7.34,"565,055,743,243",23188,Boomers
+4972,Canada,1989,female,75+ years,40,5.4,"565,055,743,243",23188,G.I. Generation
+4973,Canada,1989,female,15-24 years,91,4.74,"565,055,743,243",23188,Generation X
+4974,Canada,1989,male,5-14 years,19,1.02,"565,055,743,243",23188,Generation X
+4975,Canada,1989,female,5-14 years,6,0.34,"565,055,743,243",23188,Generation X
+4976,Canada,1990,male,75+ years,149,32.42,"593,929,550,908",24041,G.I. Generation
+4977,Canada,1990,male,25-34 years,703,29.63,"593,929,550,908",24041,Boomers
+4978,Canada,1990,male,35-54 years,884,25.38,"593,929,550,908",24041,Silent
+4979,Canada,1990,male,15-24 years,484,24.56,"593,929,550,908",24041,Generation X
+4980,Canada,1990,male,55-74 years,430,21.83,"593,929,550,908",24041,G.I. Generation
+4981,Canada,1990,female,35-54 years,293,8.36,"593,929,550,908",24041,Silent
+4982,Canada,1990,female,25-34 years,154,6.45,"593,929,550,908",24041,Boomers
+4983,Canada,1990,female,55-74 years,125,5.64,"593,929,550,908",24041,G.I. Generation
+4984,Canada,1990,female,15-24 years,94,4.98,"593,929,550,908",24041,Generation X
+4985,Canada,1990,female,75+ years,32,4.16,"593,929,550,908",24041,G.I. Generation
+4986,Canada,1990,male,5-14 years,23,1.22,"593,929,550,908",24041,Generation X
+4987,Canada,1990,female,5-14 years,7,0.39,"593,929,550,908",24041,Generation X
+4988,Canada,1991,male,25-34 years,713,29.46,"610,328,183,643",24038,Boomers
+4989,Canada,1991,male,75+ years,139,29.02,"610,328,183,643",24038,G.I. Generation
+4990,Canada,1991,male,15-24 years,539,27.73,"610,328,183,643",24038,Generation X
+4991,Canada,1991,male,35-54 years,974,26.59,"610,328,183,643",24038,Boomers
+4992,Canada,1991,male,55-74 years,490,24.12,"610,328,183,643",24038,Silent
+4993,Canada,1991,female,35-54 years,271,7.38,"610,328,183,643",24038,Boomers
+4994,Canada,1991,female,25-34 years,177,7.24,"610,328,183,643",24038,Boomers
+4995,Canada,1991,female,55-74 years,154,6.8,"610,328,183,643",24038,Silent
+4996,Canada,1991,female,15-24 years,76,4.03,"610,328,183,643",24038,Generation X
+4997,Canada,1991,female,75+ years,31,3.89,"610,328,183,643",24038,G.I. Generation
+4998,Canada,1991,male,5-14 years,20,1.03,"610,328,183,643",24038,Millenials
+4999,Canada,1991,female,5-14 years,9,0.49,"610,328,183,643",24038,Millenials
+5000,Canada,1992,male,25-34 years,739,28.85,"592,387,689,253",22393,Boomers
+5001,Canada,1992,male,75+ years,136,27.21,"592,387,689,253",22393,G.I. Generation
+5002,Canada,1992,male,35-54 years,1020,26.22,"592,387,689,253",22393,Boomers
+5003,Canada,1992,male,15-24 years,504,24.68,"592,387,689,253",22393,Generation X
+5004,Canada,1992,male,55-74 years,497,23.81,"592,387,689,253",22393,Silent
+5005,Canada,1992,female,35-54 years,323,8.37,"592,387,689,253",22393,Boomers
+5006,Canada,1992,female,55-74 years,146,6.31,"592,387,689,253",22393,Silent
+5007,Canada,1992,female,25-34 years,155,6.2,"592,387,689,253",22393,Boomers
+5008,Canada,1992,female,15-24 years,119,6.04,"592,387,689,253",22393,Generation X
+5009,Canada,1992,female,75+ years,35,4.19,"592,387,689,253",22393,G.I. Generation
+5010,Canada,1992,male,5-14 years,26,1.3,"592,387,689,253",22393,Millenials
+5011,Canada,1992,female,5-14 years,8,0.42,"592,387,689,253",22393,Millenials
+5012,Canada,1993,male,35-54 years,1141,28.17,"577,170,761,956",21421,Boomers
+5013,Canada,1993,male,25-34 years,721,28.07,"577,170,761,956",21421,Boomers
+5014,Canada,1993,male,75+ years,138,26.88,"577,170,761,956",21421,G.I. Generation
+5015,Canada,1993,male,15-24 years,488,23.75,"577,170,761,956",21421,Generation X
+5016,Canada,1993,male,55-74 years,499,23.45,"577,170,761,956",21421,Silent
+5017,Canada,1993,female,35-54 years,331,8.25,"577,170,761,956",21421,Boomers
+5018,Canada,1993,female,75+ years,55,6.41,"577,170,761,956",21421,G.I. Generation
+5019,Canada,1993,female,55-74 years,146,6.22,"577,170,761,956",21421,Silent
+5020,Canada,1993,female,25-34 years,146,5.84,"577,170,761,956",21421,Boomers
+5021,Canada,1993,female,15-24 years,93,4.7,"577,170,761,956",21421,Generation X
+5022,Canada,1993,male,5-14 years,27,1.34,"577,170,761,956",21421,Millenials
+5023,Canada,1993,female,5-14 years,18,0.94,"577,170,761,956",21421,Millenials
+5024,Canada,1994,male,75+ years,160,30.33,"578,139,279,438",21219,G.I. Generation
+5025,Canada,1994,male,35-54 years,1150,27.53,"578,139,279,438",21219,Boomers
+5026,Canada,1994,male,25-34 years,636,25.21,"578,139,279,438",21219,Boomers
+5027,Canada,1994,male,15-24 years,506,24.7,"578,139,279,438",21219,Generation X
+5028,Canada,1994,male,55-74 years,479,22.13,"578,139,279,438",21219,Silent
+5029,Canada,1994,female,35-54 years,339,8.18,"578,139,279,438",21219,Boomers
+5030,Canada,1994,female,55-74 years,152,6.39,"578,139,279,438",21219,Silent
+5031,Canada,1994,female,25-34 years,135,5.49,"578,139,279,438",21219,Boomers
+5032,Canada,1994,female,15-24 years,105,5.32,"578,139,279,438",21219,Generation X
+5033,Canada,1994,female,75+ years,37,4.18,"578,139,279,438",21219,G.I. Generation
+5034,Canada,1994,male,5-14 years,37,1.83,"578,139,279,438",21219,Millenials
+5035,Canada,1994,female,5-14 years,12,0.62,"578,139,279,438",21219,Millenials
+5036,Canada,1995,male,25-34 years,744,29.89,"604,031,623,433",21871,Generation X
+5037,Canada,1995,male,35-54 years,1264,29.29,"604,031,623,433",21871,Boomers
+5038,Canada,1995,male,75+ years,146,26.55,"604,031,623,433",21871,G.I. Generation
+5039,Canada,1995,male,15-24 years,507,24.72,"604,031,623,433",21871,Generation X
+5040,Canada,1995,male,55-74 years,473,21.56,"604,031,623,433",21871,Silent
+5041,Canada,1995,female,35-54 years,363,8.47,"604,031,623,433",21871,Boomers
+5042,Canada,1995,female,55-74 years,157,6.53,"604,031,623,433",21871,Silent
+5043,Canada,1995,female,25-34 years,141,5.8,"604,031,623,433",21871,Generation X
+5044,Canada,1995,female,15-24 years,96,4.87,"604,031,623,433",21871,Generation X
+5045,Canada,1995,female,75+ years,34,3.69,"604,031,623,433",21871,G.I. Generation
+5046,Canada,1995,male,5-14 years,22,1.08,"604,031,623,433",21871,Millenials
+5047,Canada,1995,female,5-14 years,21,1.07,"604,031,623,433",21871,Millenials
+5048,Canada,1996,male,75+ years,162,29.15,"628,546,387,972",22686,G.I. Generation
+5049,Canada,1996,male,35-54 years,1273,28.98,"628,546,387,972",22686,Boomers
+5050,Canada,1996,male,25-34 years,630,26.25,"628,546,387,972",22686,Generation X
+5051,Canada,1996,male,15-24 years,490,23.8,"628,546,387,972",22686,Generation X
+5052,Canada,1996,male,55-74 years,506,22.87,"628,546,387,972",22686,Silent
+5053,Canada,1996,female,35-54 years,434,9.87,"628,546,387,972",22686,Boomers
+5054,Canada,1996,female,55-74 years,144,5.96,"628,546,387,972",22686,Silent
+5055,Canada,1996,female,25-34 years,137,5.84,"628,546,387,972",22686,Generation X
+5056,Canada,1996,female,15-24 years,91,4.63,"628,546,387,972",22686,Generation X
+5057,Canada,1996,female,75+ years,33,3.53,"628,546,387,972",22686,G.I. Generation
+5058,Canada,1996,male,5-14 years,32,1.55,"628,546,387,972",22686,Millenials
+5059,Canada,1996,female,5-14 years,9,0.46,"628,546,387,972",22686,Millenials
+5060,Canada,1997,male,35-54 years,1230,27.18,"652,825,364,726",23245,Boomers
+5061,Canada,1997,male,75+ years,156,26.98,"652,825,364,726",23245,G.I. Generation
+5062,Canada,1997,male,25-34 years,535,22.67,"652,825,364,726",23245,Generation X
+5063,Canada,1997,male,15-24 years,464,22.35,"652,825,364,726",23245,Generation X
+5064,Canada,1997,male,55-74 years,490,21.78,"652,825,364,726",23245,Silent
+5065,Canada,1997,female,35-54 years,356,7.87,"652,825,364,726",23245,Boomers
+5066,Canada,1997,female,25-34 years,136,5.89,"652,825,364,726",23245,Generation X
+5067,Canada,1997,female,55-74 years,131,5.36,"652,825,364,726",23245,Silent
+5068,Canada,1997,female,15-24 years,90,4.54,"652,825,364,726",23245,Generation X
+5069,Canada,1997,female,75+ years,42,4.33,"652,825,364,726",23245,G.I. Generation
+5070,Canada,1997,male,5-14 years,39,1.87,"652,825,364,726",23245,Millenials
+5071,Canada,1997,female,5-14 years,12,0.61,"652,825,364,726",23245,Millenials
+5072,Canada,1998,male,35-54 years,1226,26.44,"631,813,279,407",22268,Boomers
+5073,Canada,1998,male,25-34 years,568,24.68,"631,813,279,407",22268,Generation X
+5074,Canada,1998,male,75+ years,147,24.54,"631,813,279,407",22268,G.I. Generation
+5075,Canada,1998,male,15-24 years,457,21.86,"631,813,279,407",22268,Generation X
+5076,Canada,1998,male,55-74 years,497,21.66,"631,813,279,407",22268,Silent
+5077,Canada,1998,female,35-54 years,341,7.36,"631,813,279,407",22268,Boomers
+5078,Canada,1998,female,25-34 years,133,5.91,"631,813,279,407",22268,Generation X
+5079,Canada,1998,female,15-24 years,105,5.27,"631,813,279,407",22268,Generation X
+5080,Canada,1998,female,55-74 years,129,5.19,"631,813,279,407",22268,Silent
+5081,Canada,1998,female,75+ years,50,4.98,"631,813,279,407",22268,G.I. Generation
+5082,Canada,1998,male,5-14 years,30,1.43,"631,813,279,407",22268,Millenials
+5083,Canada,1998,female,5-14 years,16,0.8,"631,813,279,407",22268,Millenials
+5084,Canada,1999,male,35-54 years,1442,30.4,"676,082,654,641",23572,Boomers
+5085,Canada,1999,male,25-34 years,614,27.24,"676,082,654,641",23572,Generation X
+5086,Canada,1999,male,75+ years,155,24.96,"676,082,654,641",23572,G.I. Generation
+5087,Canada,1999,male,55-74 years,520,22.21,"676,082,654,641",23572,Silent
+5088,Canada,1999,male,15-24 years,468,22.15,"676,082,654,641",23572,Generation X
+5089,Canada,1999,female,35-54 years,435,9.18,"676,082,654,641",23572,Boomers
+5090,Canada,1999,female,55-74 years,147,5.83,"676,082,654,641",23572,Silent
+5091,Canada,1999,female,25-34 years,118,5.35,"676,082,654,641",23572,Generation X
+5092,Canada,1999,female,75+ years,53,5.11,"676,082,654,641",23572,G.I. Generation
+5093,Canada,1999,female,15-24 years,90,4.47,"676,082,654,641",23572,Generation X
+5094,Canada,1999,male,5-14 years,25,1.19,"676,082,654,641",23572,Millenials
+5095,Canada,1999,female,5-14 years,7,0.35,"676,082,654,641",23572,Millenials
+5096,Canada,2000,male,35-54 years,1254,25.91,"742,293,448,253",25589,Boomers
+5097,Canada,2000,male,75+ years,146,22.66,"742,293,448,253",25589,G.I. Generation
+5098,Canada,2000,male,25-34 years,484,21.74,"742,293,448,253",25589,Generation X
+5099,Canada,2000,male,15-24 years,430,20.18,"742,293,448,253",25589,Generation X
+5100,Canada,2000,male,55-74 years,455,19.03,"742,293,448,253",25589,Silent
+5101,Canada,2000,female,35-54 years,393,8.14,"742,293,448,253",25589,Boomers
+5102,Canada,2000,female,15-24 years,112,5.51,"742,293,448,253",25589,Generation X
+5103,Canada,2000,female,25-34 years,119,5.46,"742,293,448,253",25589,Generation X
+5104,Canada,2000,female,55-74 years,137,5.34,"742,293,448,253",25589,Silent
+5105,Canada,2000,female,75+ years,30,2.8,"742,293,448,253",25589,G.I. Generation
+5106,Canada,2000,male,5-14 years,29,1.38,"742,293,448,253",25589,Millenials
+5107,Canada,2000,female,5-14 years,17,0.85,"742,293,448,253",25589,Millenials
+5108,Canada,2001,male,35-54 years,1347,27.53,"736,379,777,893",25165,Boomers
+5109,Canada,2001,male,25-34 years,500,22.91,"736,379,777,893",25165,Generation X
+5110,Canada,2001,male,75+ years,131,19.67,"736,379,777,893",25165,Silent
+5111,Canada,2001,male,55-74 years,481,19.56,"736,379,777,893",25165,Silent
+5112,Canada,2001,male,15-24 years,398,18.36,"736,379,777,893",25165,Millenials
+5113,Canada,2001,female,35-54 years,392,8.01,"736,379,777,893",25165,Boomers
+5114,Canada,2001,female,55-74 years,161,6.15,"736,379,777,893",25165,Silent
+5115,Canada,2001,female,25-34 years,114,5.35,"736,379,777,893",25165,Generation X
+5116,Canada,2001,female,15-24 years,105,5.1,"736,379,777,893",25165,Millenials
+5117,Canada,2001,female,75+ years,38,3.47,"736,379,777,893",25165,Silent
+5118,Canada,2001,male,5-14 years,14,0.67,"736,379,777,893",25165,Millenials
+5119,Canada,2001,female,5-14 years,13,0.65,"736,379,777,893",25165,Millenials
+5120,Canada,2002,male,35-54 years,1292,26.22,"757,950,678,647",25570,Boomers
+5121,Canada,2002,male,75+ years,164,23.71,"757,950,678,647",25570,Silent
+5122,Canada,2002,male,25-34 years,466,21.24,"757,950,678,647",25570,Generation X
+5123,Canada,2002,male,55-74 years,527,20.66,"757,950,678,647",25570,Silent
+5124,Canada,2002,male,15-24 years,384,17.51,"757,950,678,647",25570,Millenials
+5125,Canada,2002,female,35-54 years,370,7.51,"757,950,678,647",25570,Boomers
+5126,Canada,2002,female,25-34 years,124,5.79,"757,950,678,647",25570,Generation X
+5127,Canada,2002,female,55-74 years,150,5.54,"757,950,678,647",25570,Silent
+5128,Canada,2002,female,15-24 years,108,5.18,"757,950,678,647",25570,Millenials
+5129,Canada,2002,female,75+ years,30,2.66,"757,950,678,647",25570,Silent
+5130,Canada,2002,male,5-14 years,18,0.86,"757,950,678,647",25570,Millenials
+5131,Canada,2002,female,5-14 years,17,0.85,"757,950,678,647",25570,Millenials
+5132,Canada,2003,male,35-54 years,1317,26.6,"892,380,986,368",29787,Boomers
+5133,Canada,2003,male,55-74 years,581,22.03,"892,380,986,368",29787,Silent
+5134,Canada,2003,male,75+ years,151,21.0,"892,380,986,368",29787,Silent
+5135,Canada,2003,male,25-34 years,426,19.32,"892,380,986,368",29787,Generation X
+5136,Canada,2003,male,15-24 years,409,18.5,"892,380,986,368",29787,Millenials
+5137,Canada,2003,female,35-54 years,438,8.84,"892,380,986,368",29787,Boomers
+5138,Canada,2003,female,15-24 years,113,5.37,"892,380,986,368",29787,Millenials
+5139,Canada,2003,female,25-34 years,114,5.3,"892,380,986,368",29787,Generation X
+5140,Canada,2003,female,55-74 years,145,5.19,"892,380,986,368",29787,Silent
+5141,Canada,2003,female,75+ years,44,3.81,"892,380,986,368",29787,Silent
+5142,Canada,2003,male,5-14 years,19,0.91,"892,380,986,368",29787,Millenials
+5143,Canada,2003,female,5-14 years,8,0.4,"892,380,986,368",29787,Millenials
+5144,Canada,2004,male,35-54 years,1210,24.28,"1,023,196,003,075",33787,Boomers
+5145,Canada,2004,male,25-34 years,477,21.48,"1,023,196,003,075",33787,Generation X
+5146,Canada,2004,male,75+ years,154,20.68,"1,023,196,003,075",33787,Silent
+5147,Canada,2004,male,55-74 years,497,18.26,"1,023,196,003,075",33787,Silent
+5148,Canada,2004,male,15-24 years,379,16.99,"1,023,196,003,075",33787,Millenials
+5149,Canada,2004,female,35-54 years,428,8.58,"1,023,196,003,075",33787,Boomers
+5150,Canada,2004,female,55-74 years,181,6.29,"1,023,196,003,075",33787,Silent
+5151,Canada,2004,female,25-34 years,114,5.25,"1,023,196,003,075",33787,Generation X
+5152,Canada,2004,female,15-24 years,101,4.75,"1,023,196,003,075",33787,Millenials
+5153,Canada,2004,female,75+ years,44,3.72,"1,023,196,003,075",33787,Silent
+5154,Canada,2004,male,5-14 years,17,0.82,"1,023,196,003,075",33787,Millenials
+5155,Canada,2004,female,5-14 years,11,0.56,"1,023,196,003,075",33787,Millenials
+5156,Canada,2005,male,35-54 years,1341,26.72,"1,169,357,979,865",38218,Boomers
+5157,Canada,2005,male,75+ years,165,21.37,"1,169,357,979,865",38218,Silent
+5158,Canada,2005,male,55-74 years,539,19.23,"1,169,357,979,865",38218,Silent
+5159,Canada,2005,male,25-34 years,415,18.56,"1,169,357,979,865",38218,Generation X
+5160,Canada,2005,male,15-24 years,378,16.8,"1,169,357,979,865",38218,Millenials
+5161,Canada,2005,female,35-54 years,418,8.33,"1,169,357,979,865",38218,Boomers
+5162,Canada,2005,female,15-24 years,131,6.11,"1,169,357,979,865",38218,Millenials
+5163,Canada,2005,female,55-74 years,158,5.33,"1,169,357,979,865",38218,Silent
+5164,Canada,2005,female,75+ years,58,4.79,"1,169,357,979,865",38218,Silent
+5165,Canada,2005,female,25-34 years,96,4.39,"1,169,357,979,865",38218,Generation X
+5166,Canada,2005,female,5-14 years,25,1.28,"1,169,357,979,865",38218,Millenials
+5167,Canada,2005,male,5-14 years,19,0.93,"1,169,357,979,865",38218,Millenials
+5168,Canada,2006,male,35-54 years,1202,23.8,"1,315,415,197,461",42566,Boomers
+5169,Canada,2006,male,75+ years,188,23.31,"1,315,415,197,461",42566,Silent
+5170,Canada,2006,male,55-74 years,599,20.58,"1,315,415,197,461",42566,Silent
+5171,Canada,2006,male,25-34 years,362,16.3,"1,315,415,197,461",42566,Generation X
+5172,Canada,2006,male,15-24 years,331,14.47,"1,315,415,197,461",42566,Millenials
+5173,Canada,2006,female,35-54 years,362,7.21,"1,315,415,197,461",42566,Boomers
+5174,Canada,2006,female,55-74 years,187,6.09,"1,315,415,197,461",42566,Silent
+5175,Canada,2006,female,25-34 years,118,5.42,"1,315,415,197,461",42566,Generation X
+5176,Canada,2006,female,15-24 years,86,3.95,"1,315,415,197,461",42566,Millenials
+5177,Canada,2006,female,75+ years,46,3.71,"1,315,415,197,461",42566,Silent
+5178,Canada,2006,female,5-14 years,18,0.94,"1,315,415,197,461",42566,Millenials
+5179,Canada,2006,male,5-14 years,13,0.65,"1,315,415,197,461",42566,Millenials
+5180,Canada,2007,male,35-54 years,1224,24.17,"1,464,977,190,206",46890,Boomers
+5181,Canada,2007,male,75+ years,183,21.86,"1,464,977,190,206",46890,Silent
+5182,Canada,2007,male,25-34 years,404,17.95,"1,464,977,190,206",46890,Generation X
+5183,Canada,2007,male,55-74 years,539,17.93,"1,464,977,190,206",46890,Silent
+5184,Canada,2007,male,15-24 years,359,15.49,"1,464,977,190,206",46890,Millenials
+5185,Canada,2007,female,35-54 years,400,7.95,"1,464,977,190,206",46890,Boomers
+5186,Canada,2007,female,55-74 years,188,5.93,"1,464,977,190,206",46890,Silent
+5187,Canada,2007,female,15-24 years,116,5.26,"1,464,977,190,206",46890,Millenials
+5188,Canada,2007,female,25-34 years,113,5.11,"1,464,977,190,206",46890,Generation X
+5189,Canada,2007,female,75+ years,52,4.1,"1,464,977,190,206",46890,Silent
+5190,Canada,2007,male,5-14 years,18,0.91,"1,464,977,190,206",46890,Generation Z
+5191,Canada,2007,female,5-14 years,15,0.79,"1,464,977,190,206",46890,Generation Z
+5192,Canada,2008,male,35-54 years,1241,24.44,"1,549,131,208,997",49041,Boomers
+5193,Canada,2008,male,75+ years,192,22.16,"1,549,131,208,997",49041,Silent
+5194,Canada,2008,male,55-74 years,589,18.96,"1,549,131,208,997",49041,Silent
+5195,Canada,2008,male,25-34 years,395,17.28,"1,549,131,208,997",49041,Generation X
+5196,Canada,2008,male,15-24 years,344,14.69,"1,549,131,208,997",49041,Millenials
+5197,Canada,2008,female,35-54 years,413,8.2,"1,549,131,208,997",49041,Boomers
+5198,Canada,2008,female,55-74 years,231,7.05,"1,549,131,208,997",49041,Silent
+5199,Canada,2008,female,15-24 years,119,5.34,"1,549,131,208,997",49041,Millenials
+5200,Canada,2008,female,25-34 years,118,5.24,"1,549,131,208,997",49041,Generation X
+5201,Canada,2008,female,75+ years,38,2.93,"1,549,131,208,997",49041,Silent
+5202,Canada,2008,male,5-14 years,16,0.82,"1,549,131,208,997",49041,Generation Z
+5203,Canada,2008,female,5-14 years,9,0.48,"1,549,131,208,997",49041,Generation Z
+5204,Canada,2009,male,35-54 years,1328,26.11,"1,371,153,004,986",42933,Boomers
+5205,Canada,2009,male,55-74 years,680,21.14,"1,371,153,004,986",42933,Silent
+5206,Canada,2009,male,75+ years,182,20.38,"1,371,153,004,986",42933,Silent
+5207,Canada,2009,male,25-34 years,437,18.79,"1,371,153,004,986",42933,Generation X
+5208,Canada,2009,male,15-24 years,349,14.82,"1,371,153,004,986",42933,Millenials
+5209,Canada,2009,female,35-54 years,402,7.97,"1,371,153,004,986",42933,Boomers
+5210,Canada,2009,female,15-24 years,130,5.81,"1,371,153,004,986",42933,Millenials
+5211,Canada,2009,female,55-74 years,192,5.66,"1,371,153,004,986",42933,Silent
+5212,Canada,2009,female,25-34 years,119,5.19,"1,371,153,004,986",42933,Generation X
+5213,Canada,2009,female,75+ years,46,3.48,"1,371,153,004,986",42933,Silent
+5214,Canada,2009,male,5-14 years,13,0.67,"1,371,153,004,986",42933,Generation Z
+5215,Canada,2009,female,5-14 years,12,0.65,"1,371,153,004,986",42933,Generation Z
+5216,Canada,2010,male,35-54 years,1292,25.39,"1,613,464,422,811",49974,Generation X
+5217,Canada,2010,male,75+ years,200,21.79,"1,613,464,422,811",49974,Silent
+5218,Canada,2010,male,55-74 years,690,20.7,"1,613,464,422,811",49974,Silent
+5219,Canada,2010,male,25-34 years,409,17.28,"1,613,464,422,811",49974,Generation X
+5220,Canada,2010,male,15-24 years,371,15.73,"1,613,464,422,811",49974,Millenials
+5221,Canada,2010,female,35-54 years,402,7.97,"1,613,464,422,811",49974,Generation X
+5222,Canada,2010,female,55-74 years,237,6.75,"1,613,464,422,811",49974,Silent
+5223,Canada,2010,female,25-34 years,154,6.59,"1,613,464,422,811",49974,Generation X
+5224,Canada,2010,female,15-24 years,115,5.13,"1,613,464,422,811",49974,Millenials
+5225,Canada,2010,female,75+ years,49,3.64,"1,613,464,422,811",49974,Silent
+5226,Canada,2010,male,5-14 years,19,0.99,"1,613,464,422,811",49974,Generation Z
+5227,Canada,2010,female,5-14 years,13,0.71,"1,613,464,422,811",49974,Generation Z
+5228,Canada,2011,male,35-54 years,1127,22.21,"1,788,647,906,048",54841,Generation X
+5229,Canada,2011,male,55-74 years,683,19.77,"1,788,647,906,048",54841,Boomers
+5230,Canada,2011,male,75+ years,184,19.5,"1,788,647,906,048",54841,Silent
+5231,Canada,2011,male,25-34 years,410,17.08,"1,788,647,906,048",54841,Millenials
+5232,Canada,2011,male,15-24 years,364,15.45,"1,788,647,906,048",54841,Millenials
+5233,Canada,2011,female,35-54 years,390,7.75,"1,788,647,906,048",54841,Generation X
+5234,Canada,2011,female,15-24 years,135,6.0,"1,788,647,906,048",54841,Millenials
+5235,Canada,2011,female,55-74 years,215,5.92,"1,788,647,906,048",54841,Boomers
+5236,Canada,2011,female,25-34 years,134,5.65,"1,788,647,906,048",54841,Millenials
+5237,Canada,2011,female,75+ years,55,4.02,"1,788,647,906,048",54841,Silent
+5238,Canada,2011,female,5-14 years,18,0.99,"1,788,647,906,048",54841,Generation Z
+5239,Canada,2011,male,5-14 years,13,0.68,"1,788,647,906,048",54841,Generation Z
+5240,Canada,2012,male,35-54 years,1205,23.83,"1,824,288,757,448",55347,Generation X
+5241,Canada,2012,male,55-74 years,770,21.47,"1,824,288,757,448",55347,Boomers
+5242,Canada,2012,male,75+ years,180,18.61,"1,824,288,757,448",55347,Silent
+5243,Canada,2012,male,25-34 years,419,17.23,"1,824,288,757,448",55347,Millenials
+5244,Canada,2012,male,15-24 years,381,16.15,"1,824,288,757,448",55347,Millenials
+5245,Canada,2012,female,35-54 years,385,7.67,"1,824,288,757,448",55347,Generation X
+5246,Canada,2012,female,55-74 years,241,6.42,"1,824,288,757,448",55347,Boomers
+5247,Canada,2012,female,15-24 years,137,6.07,"1,824,288,757,448",55347,Millenials
+5248,Canada,2012,female,25-34 years,129,5.37,"1,824,288,757,448",55347,Millenials
+5249,Canada,2012,female,75+ years,45,3.24,"1,824,288,757,448",55347,Silent
+5250,Canada,2012,female,5-14 years,17,0.94,"1,824,288,757,448",55347,Generation Z
+5251,Canada,2012,male,5-14 years,17,0.88,"1,824,288,757,448",55347,Generation Z
+5252,Canada,2013,male,35-54 years,1244,24.72,"1,842,628,005,830",55310,Generation X
+5253,Canada,2013,male,75+ years,231,23.31,"1,842,628,005,830",55310,Silent
+5254,Canada,2013,male,55-74 years,812,21.8,"1,842,628,005,830",55310,Boomers
+5255,Canada,2013,male,25-34 years,439,17.87,"1,842,628,005,830",55310,Millenials
+5256,Canada,2013,male,15-24 years,300,12.7,"1,842,628,005,830",55310,Millenials
+5257,Canada,2013,female,35-54 years,400,7.99,"1,842,628,005,830",55310,Generation X
+5258,Canada,2013,female,55-74 years,255,6.56,"1,842,628,005,830",55310,Boomers
+5259,Canada,2013,female,15-24 years,138,6.1,"1,842,628,005,830",55310,Millenials
+5260,Canada,2013,female,25-34 years,135,5.55,"1,842,628,005,830",55310,Millenials
+5261,Canada,2013,female,75+ years,65,4.61,"1,842,628,005,830",55310,Silent
+5262,Canada,2013,female,5-14 years,20,1.1,"1,842,628,005,830",55310,Generation Z
+5263,Canada,2013,male,5-14 years,15,0.78,"1,842,628,005,830",55310,Generation Z
