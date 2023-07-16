@@ -1,0 +1,373 @@
+,Country,Year,Sex,Age,Number of Suicides,Suicides per 100k,GDP for Year ($),GDP per Capita ($),Generation
+20230,Republic of Korea,1985,male,75+ years,42,27.13,"100,273,097,170",2731,G.I. Generation
+20231,Republic of Korea,1985,male,55-74 years,393,26.23,"100,273,097,170",2731,G.I. Generation
+20232,Republic of Korea,1985,male,35-54 years,903,21.07,"100,273,097,170",2731,Silent
+20233,Republic of Korea,1985,male,25-34 years,655,18.11,"100,273,097,170",2731,Boomers
+20234,Republic of Korea,1985,male,15-24 years,678,15.36,"100,273,097,170",2731,Generation X
+20235,Republic of Korea,1985,female,75+ years,38,10.25,"100,273,097,170",2731,G.I. Generation
+20236,Republic of Korea,1985,female,55-74 years,161,8.05,"100,273,097,170",2731,G.I. Generation
+20237,Republic of Korea,1985,female,15-24 years,296,7.14,"100,273,097,170",2731,Generation X
+20238,Republic of Korea,1985,female,25-34 years,228,6.39,"100,273,097,170",2731,Boomers
+20239,Republic of Korea,1985,female,35-54 years,262,6.14,"100,273,097,170",2731,Silent
+20240,Republic of Korea,1985,male,5-14 years,20,0.46,"100,273,097,170",2731,Generation X
+20241,Republic of Korea,1985,female,5-14 years,13,0.32,"100,273,097,170",2731,Generation X
+20242,Republic of Korea,1986,male,75+ years,59,36.76,"115,537,126,326",3078,G.I. Generation
+20243,Republic of Korea,1986,male,55-74 years,377,24.24,"115,537,126,326",3078,G.I. Generation
+20244,Republic of Korea,1986,male,35-54 years,827,18.35,"115,537,126,326",3078,Silent
+20245,Republic of Korea,1986,male,25-34 years,671,17.51,"115,537,126,326",3078,Boomers
+20246,Republic of Korea,1986,male,15-24 years,616,13.69,"115,537,126,326",3078,Generation X
+20247,Republic of Korea,1986,female,75+ years,30,7.94,"115,537,126,326",3078,G.I. Generation
+20248,Republic of Korea,1986,female,25-34 years,250,6.84,"115,537,126,326",3078,Boomers
+20249,Republic of Korea,1986,female,55-74 years,129,6.32,"115,537,126,326",3078,G.I. Generation
+20250,Republic of Korea,1986,female,15-24 years,237,5.58,"115,537,126,326",3078,Generation X
+20251,Republic of Korea,1986,female,35-54 years,236,5.46,"115,537,126,326",3078,Silent
+20252,Republic of Korea,1986,male,5-14 years,18,0.42,"115,537,126,326",3078,Generation X
+20253,Republic of Korea,1986,female,5-14 years,8,0.2,"115,537,126,326",3078,Generation X
+20254,Republic of Korea,1987,male,75+ years,44,26.88,"146,133,338,196",3834,G.I. Generation
+20255,Republic of Korea,1987,male,55-74 years,380,23.63,"146,133,338,196",3834,G.I. Generation
+20256,Republic of Korea,1987,male,25-34 years,675,16.99,"146,133,338,196",3834,Boomers
+20257,Republic of Korea,1987,male,35-54 years,781,16.91,"146,133,338,196",3834,Silent
+20258,Republic of Korea,1987,male,15-24 years,493,10.87,"146,133,338,196",3834,Generation X
+20259,Republic of Korea,1987,female,75+ years,30,7.7,"146,133,338,196",3834,G.I. Generation
+20260,Republic of Korea,1987,female,55-74 years,152,7.19,"146,133,338,196",3834,G.I. Generation
+20261,Republic of Korea,1987,female,25-34 years,254,6.66,"146,133,338,196",3834,Boomers
+20262,Republic of Korea,1987,female,35-54 years,229,5.22,"146,133,338,196",3834,Silent
+20263,Republic of Korea,1987,female,15-24 years,221,5.18,"146,133,338,196",3834,Generation X
+20264,Republic of Korea,1987,male,5-14 years,27,0.63,"146,133,338,196",3834,Generation X
+20265,Republic of Korea,1987,female,5-14 years,15,0.38,"146,133,338,196",3834,Generation X
+20266,Republic of Korea,1988,male,75+ years,44,24.58,"196,964,195,387",5089,G.I. Generation
+20267,Republic of Korea,1988,male,55-74 years,281,16.68,"196,964,195,387",5089,G.I. Generation
+20268,Republic of Korea,1988,male,35-54 years,691,14.71,"196,964,195,387",5089,Silent
+20269,Republic of Korea,1988,male,25-34 years,575,13.9,"196,964,195,387",5089,Boomers
+20270,Republic of Korea,1988,female,75+ years,47,11.4,"196,964,195,387",5089,G.I. Generation
+20271,Republic of Korea,1988,male,15-24 years,513,11.39,"196,964,195,387",5089,Generation X
+20272,Republic of Korea,1988,female,55-74 years,141,6.39,"196,964,195,387",5089,G.I. Generation
+20273,Republic of Korea,1988,female,25-34 years,206,5.19,"196,964,195,387",5089,Boomers
+20274,Republic of Korea,1988,female,15-24 years,212,4.98,"196,964,195,387",5089,Generation X
+20275,Republic of Korea,1988,female,35-54 years,213,4.73,"196,964,195,387",5089,Silent
+20276,Republic of Korea,1988,male,5-14 years,14,0.33,"196,964,195,387",5089,Generation X
+20277,Republic of Korea,1988,female,5-14 years,12,0.3,"196,964,195,387",5089,Generation X
+20278,Republic of Korea,1989,male,75+ years,59,31.62,"243,526,047,717",6217,G.I. Generation
+20279,Republic of Korea,1989,male,55-74 years,314,17.8,"243,526,047,717",6217,G.I. Generation
+20280,Republic of Korea,1989,male,35-54 years,693,14.38,"243,526,047,717",6217,Silent
+20281,Republic of Korea,1989,male,25-34 years,574,13.54,"243,526,047,717",6217,Boomers
+20282,Republic of Korea,1989,female,75+ years,46,10.7,"243,526,047,717",6217,G.I. Generation
+20283,Republic of Korea,1989,male,15-24 years,464,10.31,"243,526,047,717",6217,Generation X
+20284,Republic of Korea,1989,female,55-74 years,136,5.91,"243,526,047,717",6217,G.I. Generation
+20285,Republic of Korea,1989,female,25-34 years,233,5.73,"243,526,047,717",6217,Boomers
+20286,Republic of Korea,1989,female,35-54 years,262,5.67,"243,526,047,717",6217,Silent
+20287,Republic of Korea,1989,female,15-24 years,207,4.86,"243,526,047,717",6217,Generation X
+20288,Republic of Korea,1989,male,5-14 years,20,0.49,"243,526,047,717",6217,Generation X
+20289,Republic of Korea,1989,female,5-14 years,15,0.39,"243,526,047,717",6217,Generation X
+20290,Republic of Korea,1990,male,75+ years,53,27.26,"279,349,355,714",7056,G.I. Generation
+20291,Republic of Korea,1990,male,55-74 years,352,18.93,"279,349,355,714",7056,G.I. Generation
+20292,Republic of Korea,1990,male,35-54 years,736,14.78,"279,349,355,714",7056,Silent
+20293,Republic of Korea,1990,male,25-34 years,550,12.88,"279,349,355,714",7056,Boomers
+20294,Republic of Korea,1990,female,75+ years,52,11.55,"279,349,355,714",7056,G.I. Generation
+20295,Republic of Korea,1990,male,15-24 years,480,10.66,"279,349,355,714",7056,Generation X
+20296,Republic of Korea,1990,female,25-34 years,269,6.56,"279,349,355,714",7056,Boomers
+20297,Republic of Korea,1990,female,55-74 years,153,6.37,"279,349,355,714",7056,G.I. Generation
+20298,Republic of Korea,1990,female,15-24 years,232,5.46,"279,349,355,714",7056,Generation X
+20299,Republic of Korea,1990,female,35-54 years,242,5.06,"279,349,355,714",7056,Silent
+20300,Republic of Korea,1990,male,5-14 years,26,0.65,"279,349,355,714",7056,Generation X
+20301,Republic of Korea,1990,female,5-14 years,14,0.37,"279,349,355,714",7056,Generation X
+20302,Republic of Korea,1991,male,75+ years,55,26.99,"325,734,233,313",8145,G.I. Generation
+20303,Republic of Korea,1991,male,55-74 years,331,16.98,"325,734,233,313",8145,Silent
+20304,Republic of Korea,1991,male,35-54 years,708,13.74,"325,734,233,313",8145,Boomers
+20305,Republic of Korea,1991,male,25-34 years,568,13.27,"325,734,233,313",8145,Boomers
+20306,Republic of Korea,1991,female,75+ years,56,11.94,"325,734,233,313",8145,G.I. Generation
+20307,Republic of Korea,1991,male,15-24 years,451,10.06,"325,734,233,313",8145,Generation X
+20308,Republic of Korea,1991,female,55-74 years,154,6.19,"325,734,233,313",8145,Silent
+20309,Republic of Korea,1991,female,25-34 years,247,6.0,"325,734,233,313",8145,Boomers
+20310,Republic of Korea,1991,female,35-54 years,256,5.17,"325,734,233,313",8145,Boomers
+20311,Republic of Korea,1991,female,15-24 years,201,4.76,"325,734,233,313",8145,Generation X
+20312,Republic of Korea,1991,male,5-14 years,26,0.65,"325,734,233,313",8145,Millenials
+20313,Republic of Korea,1991,female,5-14 years,16,0.43,"325,734,233,313",8145,Millenials
+20314,Republic of Korea,1992,male,75+ years,56,26.17,"350,051,111,253",8671,G.I. Generation
+20315,Republic of Korea,1992,male,55-74 years,438,21.44,"350,051,111,253",8671,Silent
+20316,Republic of Korea,1992,male,35-54 years,823,15.48,"350,051,111,253",8671,Boomers
+20317,Republic of Korea,1992,male,25-34 years,644,15.0,"350,051,111,253",8671,Boomers
+20318,Republic of Korea,1992,female,75+ years,60,12.32,"350,051,111,253",8671,G.I. Generation
+20319,Republic of Korea,1992,male,15-24 years,480,10.77,"350,051,111,253",8671,Generation X
+20320,Republic of Korea,1992,female,55-74 years,182,7.06,"350,051,111,253",8671,Silent
+20321,Republic of Korea,1992,female,25-34 years,267,6.47,"350,051,111,253",8671,Boomers
+20322,Republic of Korea,1992,female,35-54 years,312,6.09,"350,051,111,253",8671,Boomers
+20323,Republic of Korea,1992,female,15-24 years,222,5.29,"350,051,111,253",8671,Generation X
+20324,Republic of Korea,1992,male,5-14 years,26,0.67,"350,051,111,253",8671,Millenials
+20325,Republic of Korea,1992,female,5-14 years,23,0.63,"350,051,111,253",8671,Millenials
+20326,Republic of Korea,1993,male,75+ years,91,41.05,"386,302,839,274",9479,G.I. Generation
+20327,Republic of Korea,1993,male,55-74 years,524,24.42,"386,302,839,274",9479,Silent
+20328,Republic of Korea,1993,male,35-54 years,1040,18.93,"386,302,839,274",9479,Boomers
+20329,Republic of Korea,1993,female,75+ years,91,18.14,"386,302,839,274",9479,G.I. Generation
+20330,Republic of Korea,1993,male,25-34 years,646,15.0,"386,302,839,274",9479,Boomers
+20331,Republic of Korea,1993,male,15-24 years,522,11.85,"386,302,839,274",9479,Generation X
+20332,Republic of Korea,1993,female,25-34 years,322,7.79,"386,302,839,274",9479,Boomers
+20333,Republic of Korea,1993,female,55-74 years,207,7.74,"386,302,839,274",9479,Silent
+20334,Republic of Korea,1993,female,35-54 years,381,7.19,"386,302,839,274",9479,Boomers
+20335,Republic of Korea,1993,female,15-24 years,253,6.1,"386,302,839,274",9479,Generation X
+20336,Republic of Korea,1993,male,5-14 years,25,0.65,"386,302,839,274",9479,Millenials
+20337,Republic of Korea,1993,female,5-14 years,22,0.62,"386,302,839,274",9479,Millenials
+20338,Republic of Korea,1994,male,75+ years,105,46.13,"455,602,962,225",11073,G.I. Generation
+20339,Republic of Korea,1994,male,55-74 years,546,24.28,"455,602,962,225",11073,Silent
+20340,Republic of Korea,1994,female,75+ years,93,18.15,"455,602,962,225",11073,G.I. Generation
+20341,Republic of Korea,1994,male,35-54 years,1025,18.01,"455,602,962,225",11073,Boomers
+20342,Republic of Korea,1994,male,25-34 years,681,15.74,"455,602,962,225",11073,Boomers
+20343,Republic of Korea,1994,male,15-24 years,479,11.0,"455,602,962,225",11073,Generation X
+20344,Republic of Korea,1994,female,55-74 years,264,9.51,"455,602,962,225",11073,Silent
+20345,Republic of Korea,1994,female,25-34 years,337,8.13,"455,602,962,225",11073,Boomers
+20346,Republic of Korea,1994,female,35-54 years,383,6.97,"455,602,962,225",11073,Boomers
+20347,Republic of Korea,1994,female,15-24 years,243,5.93,"455,602,962,225",11073,Generation X
+20348,Republic of Korea,1994,female,5-14 years,30,0.86,"455,602,962,225",11073,Millenials
+20349,Republic of Korea,1994,male,5-14 years,26,0.69,"455,602,962,225",11073,Millenials
+20350,Republic of Korea,1995,male,75+ years,126,47.55,"556,130,926,913",13217,G.I. Generation
+20351,Republic of Korea,1995,male,55-74 years,638,28.84,"556,130,926,913",13217,Silent
+20352,Republic of Korea,1995,male,35-54 years,1265,21.34,"556,130,926,913",13217,Boomers
+20353,Republic of Korea,1995,female,75+ years,112,18.88,"556,130,926,913",13217,G.I. Generation
+20354,Republic of Korea,1995,male,25-34 years,759,16.4,"556,130,926,913",13217,Generation X
+20355,Republic of Korea,1995,male,15-24 years,501,11.52,"556,130,926,913",13217,Generation X
+20356,Republic of Korea,1995,female,55-74 years,281,9.82,"556,130,926,913",13217,Silent
+20357,Republic of Korea,1995,female,25-34 years,373,8.52,"556,130,926,913",13217,Generation X
+20358,Republic of Korea,1995,female,35-54 years,427,7.46,"556,130,926,913",13217,Boomers
+20359,Republic of Korea,1995,female,15-24 years,301,7.3,"556,130,926,913",13217,Generation X
+20360,Republic of Korea,1995,female,5-14 years,28,0.83,"556,130,926,913",13217,Millenials
+20361,Republic of Korea,1995,male,5-14 years,30,0.82,"556,130,926,913",13217,Millenials
+20362,Republic of Korea,1996,male,75+ years,166,59.48,"598,099,073,901",14071,G.I. Generation
+20363,Republic of Korea,1996,male,55-74 years,796,34.41,"598,099,073,901",14071,Silent
+20364,Republic of Korea,1996,male,35-54 years,1533,24.81,"598,099,073,901",14071,Boomers
+20365,Republic of Korea,1996,female,75+ years,150,24.32,"598,099,073,901",14071,G.I. Generation
+20366,Republic of Korea,1996,male,25-34 years,893,19.35,"598,099,073,901",14071,Generation X
+20367,Republic of Korea,1996,male,15-24 years,619,14.43,"598,099,073,901",14071,Generation X
+20368,Republic of Korea,1996,female,55-74 years,314,10.59,"598,099,073,901",14071,Silent
+20369,Republic of Korea,1996,female,25-34 years,408,9.35,"598,099,073,901",14071,Generation X
+20370,Republic of Korea,1996,female,15-24 years,367,9.02,"598,099,073,901",14071,Generation X
+20371,Republic of Korea,1996,female,35-54 years,532,8.91,"598,099,073,901",14071,Boomers
+20372,Republic of Korea,1996,female,5-14 years,44,1.34,"598,099,073,901",14071,Millenials
+20373,Republic of Korea,1996,male,5-14 years,35,0.98,"598,099,073,901",14071,Millenials
+20374,Republic of Korea,1997,male,75+ years,198,66.8,"557,503,074,772",12978,G.I. Generation
+20375,Republic of Korea,1997,male,55-74 years,868,35.6,"557,503,074,772",12978,Silent
+20376,Republic of Korea,1997,female,75+ years,173,26.71,"557,503,074,772",12978,G.I. Generation
+20377,Republic of Korea,1997,male,35-54 years,1656,25.92,"557,503,074,772",12978,Boomers
+20378,Republic of Korea,1997,male,25-34 years,881,19.14,"557,503,074,772",12978,Generation X
+20379,Republic of Korea,1997,male,15-24 years,528,12.48,"557,503,074,772",12978,Generation X
+20380,Republic of Korea,1997,female,55-74 years,341,11.04,"557,503,074,772",12978,Silent
+20381,Republic of Korea,1997,female,25-34 years,458,10.51,"557,503,074,772",12978,Generation X
+20382,Republic of Korea,1997,female,35-54 years,535,8.68,"557,503,074,772",12978,Boomers
+20383,Republic of Korea,1997,female,15-24 years,321,7.98,"557,503,074,772",12978,Generation X
+20384,Republic of Korea,1997,female,5-14 years,34,1.06,"557,503,074,772",12978,Millenials
+20385,Republic of Korea,1997,male,5-14 years,31,0.88,"557,503,074,772",12978,Millenials
+20386,Republic of Korea,1998,male,75+ years,258,81.59,"374,241,351,752",8624,G.I. Generation
+20387,Republic of Korea,1998,male,55-74 years,1398,54.81,"374,241,351,752",8624,Silent
+20388,Republic of Korea,1998,male,35-54 years,2644,40.25,"374,241,351,752",8624,Boomers
+20389,Republic of Korea,1998,female,75+ years,230,33.6,"374,241,351,752",8624,G.I. Generation
+20390,Republic of Korea,1998,male,25-34 years,1240,26.93,"374,241,351,752",8624,Generation X
+20391,Republic of Korea,1998,male,15-24 years,629,15.1,"374,241,351,752",8624,Generation X
+20392,Republic of Korea,1998,female,55-74 years,479,14.99,"374,241,351,752",8624,Silent
+20393,Republic of Korea,1998,female,25-34 years,533,12.16,"374,241,351,752",8624,Generation X
+20394,Republic of Korea,1998,female,35-54 years,714,11.29,"374,241,351,752",8624,Boomers
+20395,Republic of Korea,1998,female,15-24 years,371,9.38,"374,241,351,752",8624,Generation X
+20396,Republic of Korea,1998,female,5-14 years,42,1.33,"374,241,351,752",8624,Millenials
+20397,Republic of Korea,1998,male,5-14 years,31,0.89,"374,241,351,752",8624,Millenials
+20398,Republic of Korea,1999,male,75+ years,252,75.72,"485,248,229,337",11074,G.I. Generation
+20399,Republic of Korea,1999,male,55-74 years,1201,45.58,"485,248,229,337",11074,Silent
+20400,Republic of Korea,1999,male,35-54 years,2087,30.88,"485,248,229,337",11074,Boomers
+20401,Republic of Korea,1999,female,75+ years,213,29.88,"485,248,229,337",11074,G.I. Generation
+20402,Republic of Korea,1999,male,25-34 years,901,19.54,"485,248,229,337",11074,Generation X
+20403,Republic of Korea,1999,female,55-74 years,464,14.14,"485,248,229,337",11074,Silent
+20404,Republic of Korea,1999,male,15-24 years,496,12.18,"485,248,229,337",11074,Generation X
+20405,Republic of Korea,1999,female,35-54 years,683,10.51,"485,248,229,337",11074,Boomers
+20406,Republic of Korea,1999,female,25-34 years,411,9.33,"485,248,229,337",11074,Generation X
+20407,Republic of Korea,1999,female,15-24 years,306,7.93,"485,248,229,337",11074,Generation X
+20408,Republic of Korea,1999,female,5-14 years,30,0.95,"485,248,229,337",11074,Millenials
+20409,Republic of Korea,1999,male,5-14 years,31,0.88,"485,248,229,337",11074,Millenials
+20410,Republic of Korea,2000,male,75+ years,282,81.49,"561,633,125,840",12686,G.I. Generation
+20411,Republic of Korea,2000,male,55-74 years,1133,41.74,"561,633,125,840",12686,Silent
+20412,Republic of Korea,2000,female,75+ years,238,32.27,"561,633,125,840",12686,G.I. Generation
+20413,Republic of Korea,2000,male,35-54 years,1890,27.08,"561,633,125,840",12686,Boomers
+20414,Republic of Korea,2000,male,25-34 years,748,16.31,"561,633,125,840",12686,Generation X
+20415,Republic of Korea,2000,female,55-74 years,481,14.33,"561,633,125,840",12686,Silent
+20416,Republic of Korea,2000,male,15-24 years,408,10.24,"561,633,125,840",12686,Generation X
+20417,Republic of Korea,2000,female,35-54 years,616,9.17,"561,633,125,840",12686,Boomers
+20418,Republic of Korea,2000,female,25-34 years,353,8.05,"561,633,125,840",12686,Generation X
+20419,Republic of Korea,2000,female,15-24 years,265,7.03,"561,633,125,840",12686,Generation X
+20420,Republic of Korea,2000,male,5-14 years,20,0.56,"561,633,125,840",12686,Millenials
+20421,Republic of Korea,2000,female,5-14 years,10,0.32,"561,633,125,840",12686,Millenials
+20422,Republic of Korea,2001,male,75+ years,328,91.34,"533,052,076,314",11922,Silent
+20423,Republic of Korea,2001,male,55-74 years,1331,47.6,"533,052,076,314",11922,Silent
+20424,Republic of Korea,2001,female,75+ years,306,39.91,"533,052,076,314",11922,Silent
+20425,Republic of Korea,2001,male,35-54 years,1989,27.64,"533,052,076,314",11922,Boomers
+20426,Republic of Korea,2001,male,25-34 years,835,18.41,"533,052,076,314",11922,Generation X
+20427,Republic of Korea,2001,female,55-74 years,520,15.19,"533,052,076,314",11922,Silent
+20428,Republic of Korea,2001,female,35-54 years,640,9.25,"533,052,076,314",11922,Boomers
+20429,Republic of Korea,2001,male,15-24 years,356,9.1,"533,052,076,314",11922,Millenials
+20430,Republic of Korea,2001,female,25-34 years,344,7.9,"533,052,076,314",11922,Generation X
+20431,Republic of Korea,2001,female,15-24 years,228,6.18,"533,052,076,314",11922,Millenials
+20432,Republic of Korea,2001,female,5-14 years,21,0.66,"533,052,076,314",11922,Millenials
+20433,Republic of Korea,2001,male,5-14 years,13,0.36,"533,052,076,314",11922,Millenials
+20434,Republic of Korea,2002,male,75+ years,489,130.46,"609,020,054,512",13501,Silent
+20435,Republic of Korea,2002,female,75+ years,491,61.28,"609,020,054,512",13501,Silent
+20436,Republic of Korea,2002,male,55-74 years,1648,56.7,"609,020,054,512",13501,Silent
+20437,Republic of Korea,2002,male,35-54 years,2444,33.16,"609,020,054,512",13501,Boomers
+20438,Republic of Korea,2002,male,25-34 years,970,21.65,"609,020,054,512",13501,Generation X
+20439,Republic of Korea,2002,female,55-74 years,664,18.87,"609,020,054,512",13501,Silent
+20440,Republic of Korea,2002,female,35-54 years,845,11.91,"609,020,054,512",13501,Boomers
+20441,Republic of Korea,2002,male,15-24 years,374,9.75,"609,020,054,512",13501,Millenials
+20442,Republic of Korea,2002,female,25-34 years,401,9.29,"609,020,054,512",13501,Generation X
+20443,Republic of Korea,2002,female,15-24 years,254,7.05,"609,020,054,512",13501,Millenials
+20444,Republic of Korea,2002,female,5-14 years,17,0.53,"609,020,054,512",13501,Millenials
+20445,Republic of Korea,2002,male,5-14 years,14,0.39,"609,020,054,512",13501,Millenials
+20446,Republic of Korea,2003,male,75+ years,674,170.86,"680,520,724,062",14971,Silent
+20447,Republic of Korea,2003,male,55-74 years,2239,73.83,"680,520,724,062",14971,Silent
+20448,Republic of Korea,2003,female,75+ years,601,71.26,"680,520,724,062",14971,Silent
+20449,Republic of Korea,2003,male,35-54 years,3005,39.9,"680,520,724,062",14971,Boomers
+20450,Republic of Korea,2003,male,25-34 years,1086,24.71,"680,520,724,062",14971,Generation X
+20451,Republic of Korea,2003,female,55-74 years,855,23.59,"680,520,724,062",14971,Silent
+20452,Republic of Korea,2003,female,35-54 years,1091,15.0,"680,520,724,062",14971,Boomers
+20453,Republic of Korea,2003,male,15-24 years,495,13.13,"680,520,724,062",14971,Millenials
+20454,Republic of Korea,2003,female,25-34 years,503,11.91,"680,520,724,062",14971,Generation X
+20455,Republic of Korea,2003,female,15-24 years,316,8.96,"680,520,724,062",14971,Millenials
+20456,Republic of Korea,2003,female,5-14 years,18,0.56,"680,520,724,062",14971,Millenials
+20457,Republic of Korea,2003,male,5-14 years,15,0.41,"680,520,724,062",14971,Millenials
+20458,Republic of Korea,2004,male,75+ years,722,172.8,"764,880,644,711",16708,Silent
+20459,Republic of Korea,2004,male,55-74 years,2574,81.63,"764,880,644,711",16708,Silent
+20460,Republic of Korea,2004,female,75+ years,695,78.01,"764,880,644,711",16708,Silent
+20461,Republic of Korea,2004,male,35-54 years,3227,41.84,"764,880,644,711",16708,Boomers
+20462,Republic of Korea,2004,female,55-74 years,969,26.03,"764,880,644,711",16708,Silent
+20463,Republic of Korea,2004,male,25-34 years,912,21.18,"764,880,644,711",16708,Generation X
+20464,Republic of Korea,2004,female,35-54 years,1154,15.46,"764,880,644,711",16708,Boomers
+20465,Republic of Korea,2004,female,25-34 years,496,12.01,"764,880,644,711",16708,Generation X
+20466,Republic of Korea,2004,male,15-24 years,423,11.44,"764,880,644,711",16708,Millenials
+20467,Republic of Korea,2004,female,15-24 years,277,8.04,"764,880,644,711",16708,Millenials
+20468,Republic of Korea,2004,female,5-14 years,22,0.68,"764,880,644,711",16708,Millenials
+20469,Republic of Korea,2004,male,5-14 years,21,0.58,"764,880,644,711",16708,Millenials
+20470,Republic of Korea,2005,male,75+ years,780,176.33,"898,137,194,716",19460,Silent
+20471,Republic of Korea,2005,male,55-74 years,2680,81.92,"898,137,194,716",19460,Silent
+20472,Republic of Korea,2005,female,75+ years,700,74.24,"898,137,194,716",19460,Silent
+20473,Republic of Korea,2005,male,35-54 years,3109,39.31,"898,137,194,716",19460,Boomers
+20474,Republic of Korea,2005,female,55-74 years,986,25.84,"898,137,194,716",19460,Silent
+20475,Republic of Korea,2005,male,25-34 years,1010,23.74,"898,137,194,716",19460,Generation X
+20476,Republic of Korea,2005,female,25-34 years,679,16.64,"898,137,194,716",19460,Generation X
+20477,Republic of Korea,2005,female,35-54 years,1179,15.38,"898,137,194,716",19460,Boomers
+20478,Republic of Korea,2005,female,15-24 years,421,12.63,"898,137,194,716",19460,Millenials
+20479,Republic of Korea,2005,male,15-24 years,426,11.81,"898,137,194,716",19460,Millenials
+20480,Republic of Korea,2005,female,5-14 years,20,0.62,"898,137,194,716",19460,Millenials
+20481,Republic of Korea,2005,male,5-14 years,21,0.58,"898,137,194,716",19460,Millenials
+20482,Republic of Korea,2006,male,75+ years,722,154.63,"1,011,797,457,139",21753,Silent
+20483,Republic of Korea,2006,male,55-74 years,2506,74.16,"1,011,797,457,139",21753,Silent
+20484,Republic of Korea,2006,female,75+ years,700,70.33,"1,011,797,457,139",21753,Silent
+20485,Republic of Korea,2006,male,35-54 years,2878,35.4,"1,011,797,457,139",21753,Boomers
+20486,Republic of Korea,2006,female,55-74 years,895,22.95,"1,011,797,457,139",21753,Silent
+20487,Republic of Korea,2006,male,25-34 years,764,18.16,"1,011,797,457,139",21753,Generation X
+20488,Republic of Korea,2006,female,35-54 years,1036,13.15,"1,011,797,457,139",21753,Boomers
+20489,Republic of Korea,2006,female,25-34 years,490,12.15,"1,011,797,457,139",21753,Generation X
+20490,Republic of Korea,2006,male,15-24 years,342,9.69,"1,011,797,457,139",21753,Millenials
+20491,Republic of Korea,2006,female,15-24 years,285,8.79,"1,011,797,457,139",21753,Millenials
+20492,Republic of Korea,2006,female,5-14 years,20,0.63,"1,011,797,457,139",21753,Millenials
+20493,Republic of Korea,2006,male,5-14 years,15,0.42,"1,011,797,457,139",21753,Millenials
+20494,Republic of Korea,2007,male,75+ years,860,172.86,"1,122,679,154,632",23982,Silent
+20495,Republic of Korea,2007,male,55-74 years,2553,72.72,"1,122,679,154,632",23982,Silent
+20496,Republic of Korea,2007,female,75+ years,743,70.58,"1,122,679,154,632",23982,Silent
+20497,Republic of Korea,2007,male,35-54 years,2902,34.88,"1,122,679,154,632",23982,Boomers
+20498,Republic of Korea,2007,female,55-74 years,984,24.54,"1,122,679,154,632",23982,Silent
+20499,Republic of Korea,2007,male,25-34 years,997,23.97,"1,122,679,154,632",23982,Generation X
+20500,Republic of Korea,2007,female,25-34 years,908,22.77,"1,122,679,154,632",23982,Generation X
+20501,Republic of Korea,2007,female,35-54 years,1297,16.09,"1,122,679,154,632",23982,Boomers
+20502,Republic of Korea,2007,female,15-24 years,467,14.72,"1,122,679,154,632",23982,Millenials
+20503,Republic of Korea,2007,male,15-24 years,410,11.79,"1,122,679,154,632",23982,Millenials
+20504,Republic of Korea,2007,female,5-14 years,28,0.9,"1,122,679,154,632",23982,Generation Z
+20505,Republic of Korea,2007,male,5-14 years,25,0.72,"1,122,679,154,632",23982,Generation Z
+20506,Republic of Korea,2008,male,75+ years,828,154.92,"1,002,219,052,968",21278,Silent
+20507,Republic of Korea,2008,male,55-74 years,2686,73.41,"1,002,219,052,968",21278,Silent
+20508,Republic of Korea,2008,female,75+ years,755,67.53,"1,002,219,052,968",21278,Silent
+20509,Republic of Korea,2008,male,35-54 years,3265,38.51,"1,002,219,052,968",21278,Boomers
+20510,Republic of Korea,2008,female,25-34 years,943,23.98,"1,002,219,052,968",21278,Generation X
+20511,Republic of Korea,2008,male,25-34 years,977,23.79,"1,002,219,052,968",21278,Generation X
+20512,Republic of Korea,2008,female,55-74 years,964,23.29,"1,002,219,052,968",21278,Silent
+20513,Republic of Korea,2008,female,35-54 years,1500,18.27,"1,002,219,052,968",21278,Boomers
+20514,Republic of Korea,2008,male,15-24 years,481,13.92,"1,002,219,052,968",21278,Millenials
+20515,Republic of Korea,2008,female,15-24 years,410,13.11,"1,002,219,052,968",21278,Millenials
+20516,Republic of Korea,2008,female,5-14 years,26,0.86,"1,002,219,052,968",21278,Generation Z
+20517,Republic of Korea,2008,male,5-14 years,23,0.69,"1,002,219,052,968",21278,Generation Z
+20518,Republic of Korea,2009,male,75+ years,1006,173.86,"901,934,953,365",19036,Silent
+20519,Republic of Korea,2009,male,55-74 years,3025,79.47,"901,934,953,365",19036,Silent
+20520,Republic of Korea,2009,female,75+ years,920,77.22,"901,934,953,365",19036,Silent
+20521,Republic of Korea,2009,male,35-54 years,4048,46.95,"901,934,953,365",19036,Boomers
+20522,Republic of Korea,2009,male,25-34 years,1260,31.32,"901,934,953,365",19036,Generation X
+20523,Republic of Korea,2009,female,25-34 years,1121,29.16,"901,934,953,365",19036,Generation X
+20524,Republic of Korea,2009,female,55-74 years,1152,27.01,"901,934,953,365",19036,Silent
+20525,Republic of Korea,2009,female,35-54 years,1780,21.32,"901,934,953,365",19036,Boomers
+20526,Republic of Korea,2009,male,15-24 years,549,15.81,"901,934,953,365",19036,Millenials
+20527,Republic of Korea,2009,female,15-24 years,460,14.74,"901,934,953,365",19036,Millenials
+20528,Republic of Korea,2009,female,5-14 years,42,1.44,"901,934,953,365",19036,Generation Z
+20529,Republic of Korea,2009,male,5-14 years,39,1.22,"901,934,953,365",19036,Generation Z
+20530,Republic of Korea,2010,male,75+ years,1152,182.32,"1,094,499,338,703",22994,Silent
+20531,Republic of Korea,2010,male,55-74 years,3298,82.73,"1,094,499,338,703",22994,Silent
+20532,Republic of Korea,2010,female,75+ years,914,71.69,"1,094,499,338,703",22994,Silent
+20533,Republic of Korea,2010,male,35-54 years,4050,46.65,"1,094,499,338,703",22994,Generation X
+20534,Republic of Korea,2010,male,25-34 years,1301,33.05,"1,094,499,338,703",22994,Generation X
+20535,Republic of Korea,2010,female,55-74 years,1200,27.12,"1,094,499,338,703",22994,Silent
+20536,Republic of Korea,2010,female,25-34 years,972,25.88,"1,094,499,338,703",22994,Generation X
+20537,Republic of Korea,2010,female,35-54 years,1745,20.75,"1,094,499,338,703",22994,Generation X
+20538,Republic of Korea,2010,male,15-24 years,493,14.05,"1,094,499,338,703",22994,Millenials
+20539,Republic of Korea,2010,female,15-24 years,372,11.86,"1,094,499,338,703",22994,Millenials
+20540,Republic of Korea,2010,female,5-14 years,34,1.22,"1,094,499,338,703",22994,Generation Z
+20541,Republic of Korea,2010,male,5-14 years,27,0.88,"1,094,499,338,703",22994,Generation Z
+20542,Republic of Korea,2011,male,75+ years,1276,185.37,"1,202,463,682,634",25157,Silent
+20543,Republic of Korea,2011,male,55-74 years,3393,81.21,"1,202,463,682,634",25157,Boomers
+20544,Republic of Korea,2011,female,75+ years,894,65.7,"1,202,463,682,634",25157,Silent
+20545,Republic of Korea,2011,male,35-54 years,4255,48.93,"1,202,463,682,634",25157,Generation X
+20546,Republic of Korea,2011,male,25-34 years,1384,35.77,"1,202,463,682,634",25157,Millenials
+20547,Republic of Korea,2011,female,55-74 years,1178,25.62,"1,202,463,682,634",25157,Boomers
+20548,Republic of Korea,2011,female,25-34 years,901,24.47,"1,202,463,682,634",25157,Millenials
+20549,Republic of Korea,2011,female,35-54 years,1694,20.1,"1,202,463,682,634",25157,Generation X
+20550,Republic of Korea,2011,male,15-24 years,528,14.9,"1,202,463,682,634",25157,Millenials
+20551,Republic of Korea,2011,female,15-24 years,347,10.98,"1,202,463,682,634",25157,Millenials
+20552,Republic of Korea,2011,male,5-14 years,30,1.03,"1,202,463,682,634",25157,Generation Z
+20553,Republic of Korea,2011,female,5-14 years,26,0.97,"1,202,463,682,634",25157,Generation Z
+20554,Republic of Korea,2012,male,75+ years,1137,152.45,"1,222,807,284,485",25464,Silent
+20555,Republic of Korea,2012,male,55-74 years,3039,69.39,"1,222,807,284,485",25464,Boomers
+20556,Republic of Korea,2012,female,75+ years,887,61.4,"1,222,807,284,485",25464,Silent
+20557,Republic of Korea,2012,male,35-54 years,3732,42.93,"1,222,807,284,485",25464,Generation X
+20558,Republic of Korea,2012,male,25-34 years,1210,31.88,"1,222,807,284,485",25464,Millenials
+20559,Republic of Korea,2012,female,55-74 years,1060,22.18,"1,222,807,284,485",25464,Boomers
+20560,Republic of Korea,2012,female,25-34 years,733,20.34,"1,222,807,284,485",25464,Millenials
+20561,Republic of Korea,2012,female,35-54 years,1539,18.25,"1,222,807,284,485",25464,Generation X
+20562,Republic of Korea,2012,male,15-24 years,475,13.29,"1,222,807,284,485",25464,Millenials
+20563,Republic of Korea,2012,female,15-24 years,299,9.38,"1,222,807,284,485",25464,Millenials
+20564,Republic of Korea,2012,male,5-14 years,28,1.0,"1,222,807,284,485",25464,Generation Z
+20565,Republic of Korea,2012,female,5-14 years,20,0.77,"1,222,807,284,485",25464,Generation Z
+20566,Republic of Korea,2013,male,75+ years,1191,147.59,"1,305,604,981,272",27060,Silent
+20567,Republic of Korea,2013,male,55-74 years,3136,68.24,"1,305,604,981,272",27060,Boomers
+20568,Republic of Korea,2013,female,75+ years,816,53.3,"1,305,604,981,272",27060,Silent
+20569,Republic of Korea,2013,male,35-54 years,4112,47.47,"1,305,604,981,272",27060,Generation X
+20570,Republic of Korea,2013,male,25-34 years,1126,30.17,"1,305,604,981,272",27060,Millenials
+20571,Republic of Korea,2013,female,55-74 years,1004,20.2,"1,305,604,981,272",27060,Boomers
+20572,Republic of Korea,2013,female,25-34 years,698,19.73,"1,305,604,981,272",27060,Millenials
+20573,Republic of Korea,2013,female,35-54 years,1550,18.44,"1,305,604,981,272",27060,Generation X
+20574,Republic of Korea,2013,male,15-24 years,473,13.18,"1,305,604,981,272",27060,Millenials
+20575,Republic of Korea,2013,female,15-24 years,283,8.83,"1,305,604,981,272",27060,Millenials
+20576,Republic of Korea,2013,male,5-14 years,21,0.78,"1,305,604,981,272",27060,Generation Z
+20577,Republic of Korea,2013,female,5-14 years,16,0.64,"1,305,604,981,272",27060,Generation Z
+20578,Republic of Korea,2014,male,75+ years,1090,124.45,"1,411,333,926,201",29120,Silent
+20579,Republic of Korea,2014,male,55-74 years,2952,61.25,"1,411,333,926,201",29120,Boomers
+20580,Republic of Korea,2014,male,35-54 years,4085,47.33,"1,411,333,926,201",29120,Generation X
+20581,Republic of Korea,2014,female,75+ years,721,44.31,"1,411,333,926,201",29120,Silent
+20582,Republic of Korea,2014,male,25-34 years,1133,30.93,"1,411,333,926,201",29120,Millenials
+20583,Republic of Korea,2014,female,25-34 years,643,18.58,"1,411,333,926,201",29120,Millenials
+20584,Republic of Korea,2014,female,55-74 years,961,18.58,"1,411,333,926,201",29120,Boomers
+20585,Republic of Korea,2014,female,35-54 years,1506,17.98,"1,411,333,926,201",29120,Generation X
+20586,Republic of Korea,2014,male,15-24 years,453,12.62,"1,411,333,926,201",29120,Millenials
+20587,Republic of Korea,2014,female,15-24 years,257,8.01,"1,411,333,926,201",29120,Millenials
+20588,Republic of Korea,2014,male,5-14 years,22,0.84,"1,411,333,926,201",29120,Generation Z
+20589,Republic of Korea,2014,female,5-14 years,11,0.45,"1,411,333,926,201",29120,Generation Z
+20590,Republic of Korea,2015,male,75+ years,1329,140.74,"1,382,764,027,114",28410,Silent
+20591,Republic of Korea,2015,male,55-74 years,3123,61.57,"1,382,764,027,114",28410,Boomers
+20592,Republic of Korea,2015,female,75+ years,750,43.57,"1,382,764,027,114",28410,Silent
+20593,Republic of Korea,2015,male,35-54 years,3678,42.8,"1,382,764,027,114",28410,Generation X
+20594,Republic of Korea,2015,male,25-34 years,988,27.65,"1,382,764,027,114",28410,Millenials
+20595,Republic of Korea,2015,female,55-74 years,990,18.29,"1,382,764,027,114",28410,Boomers
+20596,Republic of Korea,2015,female,25-34 years,572,17.06,"1,382,764,027,114",28410,Millenials
+20597,Republic of Korea,2015,female,35-54 years,1372,16.46,"1,382,764,027,114",28410,Generation X
+20598,Republic of Korea,2015,male,15-24 years,421,11.76,"1,382,764,027,114",28410,Millenials
+20599,Republic of Korea,2015,female,15-24 years,256,7.97,"1,382,764,027,114",28410,Millenials
+20600,Republic of Korea,2015,male,5-14 years,17,0.67,"1,382,764,027,114",28410,Generation Z
+20601,Republic of Korea,2015,female,5-14 years,14,0.6,"1,382,764,027,114",28410,Generation Z
