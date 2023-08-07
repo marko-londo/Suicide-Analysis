@@ -1,0 +1,325 @@
+,Country,Year,Sex,Age,Number of Suicides,Suicides per 100k,GDP for Year ($),GDP per Capita ($),Generation
+18564,Paraguay,1985,male,75+ years,3,15.47,"2,966,234,106",964,G.I. Generation
+18565,Paraguay,1985,male,55-74 years,8,6.21,"2,966,234,106",964,G.I. Generation
+18566,Paraguay,1985,male,35-54 years,11,3.81,"2,966,234,106",964,Silent
+18567,Paraguay,1985,female,55-74 years,4,2.86,"2,966,234,106",964,G.I. Generation
+18568,Paraguay,1985,female,15-24 years,9,2.48,"2,966,234,106",964,Generation X
+18569,Paraguay,1985,male,15-24 years,9,2.4,"2,966,234,106",964,Generation X
+18570,Paraguay,1985,female,25-34 years,6,2.32,"2,966,234,106",964,Boomers
+18571,Paraguay,1985,male,25-34 years,4,1.49,"2,966,234,106",964,Boomers
+18572,Paraguay,1985,female,5-14 years,5,1.09,"2,966,234,106",964,Generation X
+18573,Paraguay,1985,female,35-54 years,3,1.08,"2,966,234,106",964,Silent
+18574,Paraguay,1985,male,5-14 years,1,0.21,"2,966,234,106",964,Generation X
+18575,Paraguay,1985,female,75+ years,0,0.0,"2,966,234,106",964,G.I. Generation
+18576,Paraguay,1986,male,55-74 years,9,6.83,"3,439,716,562",1086,G.I. Generation
+18577,Paraguay,1986,male,75+ years,1,4.89,"3,439,716,562",1086,G.I. Generation
+18578,Paraguay,1986,male,25-34 years,10,3.6,"3,439,716,562",1086,Boomers
+18579,Paraguay,1986,female,15-24 years,12,3.24,"3,439,716,562",1086,Generation X
+18580,Paraguay,1986,male,15-24 years,10,2.61,"3,439,716,562",1086,Generation X
+18581,Paraguay,1986,female,35-54 years,6,2.07,"3,439,716,562",1086,Silent
+18582,Paraguay,1986,female,55-74 years,2,1.4,"3,439,716,562",1086,G.I. Generation
+18583,Paraguay,1986,female,25-34 years,3,1.12,"3,439,716,562",1086,Boomers
+18584,Paraguay,1986,male,35-54 years,3,1.0,"3,439,716,562",1086,Silent
+18585,Paraguay,1986,female,5-14 years,0,0.0,"3,439,716,562",1086,Generation X
+18586,Paraguay,1986,female,75+ years,0,0.0,"3,439,716,562",1086,G.I. Generation
+18587,Paraguay,1986,male,5-14 years,0,0.0,"3,439,716,562",1086,Generation X
+18588,Paraguay,1987,male,75+ years,3,13.97,"3,778,316,380",1158,G.I. Generation
+18589,Paraguay,1987,male,35-54 years,15,4.78,"3,778,316,380",1158,Silent
+18590,Paraguay,1987,female,75+ years,1,3.42,"3,778,316,380",1158,G.I. Generation
+18591,Paraguay,1987,female,15-24 years,12,3.18,"3,778,316,380",1158,Generation X
+18592,Paraguay,1987,male,55-74 years,4,2.97,"3,778,316,380",1158,G.I. Generation
+18593,Paraguay,1987,male,15-24 years,11,2.82,"3,778,316,380",1158,Generation X
+18594,Paraguay,1987,male,25-34 years,6,2.1,"3,778,316,380",1158,Boomers
+18595,Paraguay,1987,female,35-54 years,4,1.33,"3,778,316,380",1158,Silent
+18596,Paraguay,1987,female,25-34 years,2,0.72,"3,778,316,380",1158,Boomers
+18597,Paraguay,1987,female,55-74 years,1,0.69,"3,778,316,380",1158,G.I. Generation
+18598,Paraguay,1987,female,5-14 years,3,0.62,"3,778,316,380",1158,Generation X
+18599,Paraguay,1987,male,5-14 years,0,0.0,"3,778,316,380",1158,Generation X
+18600,Paraguay,1989,male,75+ years,2,8.6,"4,599,970,618",1330,G.I. Generation
+18601,Paraguay,1989,female,75+ years,2,6.37,"4,599,970,618",1330,G.I. Generation
+18602,Paraguay,1989,male,35-54 years,17,4.95,"4,599,970,618",1330,Silent
+18603,Paraguay,1989,male,55-74 years,6,4.26,"4,599,970,618",1330,G.I. Generation
+18604,Paraguay,1989,male,25-34 years,11,3.64,"4,599,970,618",1330,Boomers
+18605,Paraguay,1989,female,15-24 years,13,3.32,"4,599,970,618",1330,Generation X
+18606,Paraguay,1989,male,15-24 years,12,2.98,"4,599,970,618",1330,Generation X
+18607,Paraguay,1989,female,25-34 years,3,1.02,"4,599,970,618",1330,Boomers
+18608,Paraguay,1989,female,5-14 years,1,0.19,"4,599,970,618",1330,Generation X
+18609,Paraguay,1989,female,35-54 years,0,0.0,"4,599,970,618",1330,Silent
+18610,Paraguay,1989,female,55-74 years,0,0.0,"4,599,970,618",1330,G.I. Generation
+18611,Paraguay,1989,male,5-14 years,0,0.0,"4,599,970,618",1330,Generation X
+18612,Paraguay,1990,male,75+ years,3,12.47,"5,695,201,563",1600,G.I. Generation
+18613,Paraguay,1990,female,15-24 years,24,6.02,"5,695,201,563",1600,Generation X
+18614,Paraguay,1990,male,15-24 years,23,5.62,"5,695,201,563",1600,Generation X
+18615,Paraguay,1990,female,55-74 years,6,3.87,"5,695,201,563",1600,G.I. Generation
+18616,Paraguay,1990,male,25-34 years,10,3.22,"5,695,201,563",1600,Boomers
+18617,Paraguay,1990,female,75+ years,1,3.08,"5,695,201,563",1600,G.I. Generation
+18618,Paraguay,1990,male,55-74 years,4,2.76,"5,695,201,563",1600,G.I. Generation
+18619,Paraguay,1990,female,25-34 years,8,2.65,"5,695,201,563",1600,Boomers
+18620,Paraguay,1990,male,35-54 years,9,2.52,"5,695,201,563",1600,Silent
+18621,Paraguay,1990,female,35-54 years,7,2.05,"5,695,201,563",1600,Silent
+18622,Paraguay,1990,female,5-14 years,4,0.75,"5,695,201,563",1600,Generation X
+18623,Paraguay,1990,male,5-14 years,0,0.0,"5,695,201,563",1600,Generation X
+18624,Paraguay,1991,male,55-74 years,8,5.38,"6,984,367,763",1907,Silent
+18625,Paraguay,1991,male,75+ years,1,3.93,"6,984,367,763",1907,G.I. Generation
+18626,Paraguay,1991,male,35-54 years,14,3.76,"6,984,367,763",1907,Boomers
+18627,Paraguay,1991,male,15-24 years,15,3.6,"6,984,367,763",1907,Generation X
+18628,Paraguay,1991,female,15-24 years,13,3.2,"6,984,367,763",1907,Generation X
+18629,Paraguay,1991,male,25-34 years,8,2.51,"6,984,367,763",1907,Boomers
+18630,Paraguay,1991,female,25-34 years,4,1.29,"6,984,367,763",1907,Boomers
+18631,Paraguay,1991,female,55-74 years,2,1.26,"6,984,367,763",1907,Silent
+18632,Paraguay,1991,female,35-54 years,4,1.13,"6,984,367,763",1907,Boomers
+18633,Paraguay,1991,female,5-14 years,4,0.73,"6,984,367,763",1907,Millenials
+18634,Paraguay,1991,male,5-14 years,2,0.35,"6,984,367,763",1907,Millenials
+18635,Paraguay,1991,female,75+ years,0,0.0,"6,984,367,763",1907,G.I. Generation
+18636,Paraguay,1994,male,55-74 years,16,9.8,"7,870,982,171",1981,Silent
+18637,Paraguay,1994,male,75+ years,2,6.88,"7,870,982,171",1981,G.I. Generation
+18638,Paraguay,1994,male,35-54 years,22,5.31,"7,870,982,171",1981,Boomers
+18639,Paraguay,1994,female,75+ years,2,5.21,"7,870,982,171",1981,G.I. Generation
+18640,Paraguay,1994,male,15-24 years,22,4.96,"7,870,982,171",1981,Generation X
+18641,Paraguay,1994,male,25-34 years,15,4.37,"7,870,982,171",1981,Boomers
+18642,Paraguay,1994,female,25-34 years,6,1.8,"7,870,982,171",1981,Boomers
+18643,Paraguay,1994,female,35-54 years,7,1.77,"7,870,982,171",1981,Boomers
+18644,Paraguay,1994,female,55-74 years,3,1.75,"7,870,982,171",1981,Silent
+18645,Paraguay,1994,female,15-24 years,7,1.62,"7,870,982,171",1981,Generation X
+18646,Paraguay,1994,male,5-14 years,4,0.65,"7,870,982,171",1981,Millenials
+18647,Paraguay,1994,female,5-14 years,2,0.34,"7,870,982,171",1981,Millenials
+18648,Paraguay,1995,male,75+ years,3,9.95,"9,062,131,308",2223,G.I. Generation
+18649,Paraguay,1995,male,35-54 years,27,6.28,"9,062,131,308",2223,Boomers
+18650,Paraguay,1995,male,15-24 years,28,6.14,"9,062,131,308",2223,Generation X
+18651,Paraguay,1995,male,25-34 years,17,4.86,"9,062,131,308",2223,Generation X
+18652,Paraguay,1995,male,55-74 years,7,4.15,"9,062,131,308",2223,Silent
+18653,Paraguay,1995,female,15-24 years,16,3.6,"9,062,131,308",2223,Generation X
+18654,Paraguay,1995,female,55-74 years,3,1.7,"9,062,131,308",2223,Silent
+18655,Paraguay,1995,female,35-54 years,6,1.46,"9,062,131,308",2223,Boomers
+18656,Paraguay,1995,female,5-14 years,7,1.15,"9,062,131,308",2223,Millenials
+18657,Paraguay,1995,female,25-34 years,3,0.88,"9,062,131,308",2223,Generation X
+18658,Paraguay,1995,male,5-14 years,1,0.16,"9,062,131,308",2223,Millenials
+18659,Paraguay,1995,female,75+ years,0,0.0,"9,062,131,308",2223,G.I. Generation
+18660,Paraguay,1996,male,55-74 years,11,6.34,"9,788,391,733",2341,Silent
+18661,Paraguay,1996,male,75+ years,2,6.29,"9,788,391,733",2341,G.I. Generation
+18662,Paraguay,1996,male,15-24 years,22,4.68,"9,788,391,733",2341,Generation X
+18663,Paraguay,1996,male,35-54 years,19,4.27,"9,788,391,733",2341,Boomers
+18664,Paraguay,1996,male,25-34 years,15,4.23,"9,788,391,733",2341,Generation X
+18665,Paraguay,1996,female,15-24 years,12,2.62,"9,788,391,733",2341,Generation X
+18666,Paraguay,1996,female,25-34 years,7,2.02,"9,788,391,733",2341,Generation X
+18667,Paraguay,1996,female,35-54 years,6,1.41,"9,788,391,733",2341,Boomers
+18668,Paraguay,1996,female,55-74 years,2,1.11,"9,788,391,733",2341,Silent
+18669,Paraguay,1996,female,5-14 years,3,0.49,"9,788,391,733",2341,Millenials
+18670,Paraguay,1996,female,75+ years,0,0.0,"9,788,391,733",2341,G.I. Generation
+18671,Paraguay,1996,male,5-14 years,0,0.0,"9,788,391,733",2341,Millenials
+18672,Paraguay,1997,male,15-24 years,29,5.98,"9,965,225,497",2326,Generation X
+18673,Paraguay,1997,male,25-34 years,21,5.84,"9,965,225,497",2326,Generation X
+18674,Paraguay,1997,male,55-74 years,10,5.6,"9,965,225,497",2326,Silent
+18675,Paraguay,1997,male,35-54 years,20,4.35,"9,965,225,497",2326,Boomers
+18676,Paraguay,1997,female,15-24 years,15,3.18,"9,965,225,497",2326,Generation X
+18677,Paraguay,1997,male,75+ years,1,3.0,"9,965,225,497",2326,G.I. Generation
+18678,Paraguay,1997,female,25-34 years,10,2.84,"9,965,225,497",2326,Generation X
+18679,Paraguay,1997,female,55-74 years,3,1.62,"9,965,225,497",2326,Silent
+18680,Paraguay,1997,female,35-54 years,7,1.59,"9,965,225,497",2326,Boomers
+18681,Paraguay,1997,female,5-14 years,6,0.96,"9,965,225,497",2326,Millenials
+18682,Paraguay,1997,male,5-14 years,4,0.62,"9,965,225,497",2326,Millenials
+18683,Paraguay,1997,female,75+ years,0,0.0,"9,965,225,497",2326,G.I. Generation
+18684,Paraguay,1998,male,75+ years,4,11.49,"9,024,567,484",2057,G.I. Generation
+18685,Paraguay,1998,male,55-74 years,15,8.14,"9,024,567,484",2057,Silent
+18686,Paraguay,1998,male,35-54 years,28,5.89,"9,024,567,484",2057,Boomers
+18687,Paraguay,1998,male,25-34 years,21,5.77,"9,024,567,484",2057,Generation X
+18688,Paraguay,1998,male,15-24 years,25,4.98,"9,024,567,484",2057,Generation X
+18689,Paraguay,1998,female,15-24 years,22,4.51,"9,024,567,484",2057,Generation X
+18690,Paraguay,1998,female,75+ years,1,2.21,"9,024,567,484",2057,G.I. Generation
+18691,Paraguay,1998,female,35-54 years,8,1.76,"9,024,567,484",2057,Boomers
+18692,Paraguay,1998,female,55-74 years,3,1.58,"9,024,567,484",2057,Silent
+18693,Paraguay,1998,female,25-34 years,4,1.12,"9,024,567,484",2057,Generation X
+18694,Paraguay,1998,female,5-14 years,7,1.1,"9,024,567,484",2057,Millenials
+18695,Paraguay,1998,male,5-14 years,0,0.0,"9,024,567,484",2057,Millenials
+18696,Paraguay,1999,male,55-74 years,15,7.89,"8,392,549,702",1868,Silent
+18697,Paraguay,1999,male,35-54 years,37,7.54,"8,392,549,702",1868,Boomers
+18698,Paraguay,1999,female,15-24 years,31,6.14,"8,392,549,702",1868,Generation X
+18699,Paraguay,1999,male,15-24 years,31,5.96,"8,392,549,702",1868,Generation X
+18700,Paraguay,1999,male,25-34 years,20,5.42,"8,392,549,702",1868,Generation X
+18701,Paraguay,1999,female,35-54 years,16,3.42,"8,392,549,702",1868,Boomers
+18702,Paraguay,1999,male,75+ years,1,2.76,"8,392,549,702",1868,G.I. Generation
+18703,Paraguay,1999,female,55-74 years,5,2.55,"8,392,549,702",1868,Silent
+18704,Paraguay,1999,female,75+ years,1,2.13,"8,392,549,702",1868,G.I. Generation
+18705,Paraguay,1999,female,5-14 years,2,0.31,"8,392,549,702",1868,Millenials
+18706,Paraguay,1999,male,5-14 years,2,0.3,"8,392,549,702",1868,Millenials
+18707,Paraguay,1999,female,25-34 years,0,0.0,"8,392,549,702",1868,Generation X
+18708,Paraguay,2000,male,25-34 years,33,8.81,"8,195,993,231",1782,Generation X
+18709,Paraguay,2000,male,55-74 years,16,8.13,"8,195,993,231",1782,Silent
+18710,Paraguay,2000,male,35-54 years,27,5.34,"8,195,993,231",1782,Boomers
+18711,Paraguay,2000,male,15-24 years,28,5.21,"8,195,993,231",1782,Generation X
+18712,Paraguay,2000,female,15-24 years,23,4.41,"8,195,993,231",1782,Generation X
+18713,Paraguay,2000,female,35-54 years,14,2.9,"8,195,993,231",1782,Boomers
+18714,Paraguay,2000,male,75+ years,1,2.65,"8,195,993,231",1782,G.I. Generation
+18715,Paraguay,2000,female,75+ years,1,2.05,"8,195,993,231",1782,G.I. Generation
+18716,Paraguay,2000,female,55-74 years,4,1.98,"8,195,993,231",1782,Silent
+18717,Paraguay,2000,female,25-34 years,2,0.54,"8,195,993,231",1782,Generation X
+18718,Paraguay,2000,female,5-14 years,3,0.46,"8,195,993,231",1782,Millenials
+18719,Paraguay,2000,male,5-14 years,2,0.3,"8,195,993,231",1782,Millenials
+18720,Paraguay,2001,male,75+ years,8,20.07,"7,662,595,076",1630,Silent
+18721,Paraguay,2001,male,55-74 years,18,8.86,"7,662,595,076",1630,Silent
+18722,Paraguay,2001,male,15-24 years,37,6.68,"7,662,595,076",1630,Millenials
+18723,Paraguay,2001,female,15-24 years,25,4.66,"7,662,595,076",1630,Millenials
+18724,Paraguay,2001,male,25-34 years,16,4.19,"7,662,595,076",1630,Generation X
+18725,Paraguay,2001,male,35-54 years,15,2.88,"7,662,595,076",1630,Boomers
+18726,Paraguay,2001,female,35-54 years,12,2.41,"7,662,595,076",1630,Boomers
+18727,Paraguay,2001,female,75+ years,1,1.95,"7,662,595,076",1630,Silent
+18728,Paraguay,2001,female,25-34 years,7,1.87,"7,662,595,076",1630,Generation X
+18729,Paraguay,2001,female,55-74 years,3,1.45,"7,662,595,076",1630,Silent
+18730,Paraguay,2001,female,5-14 years,6,0.91,"7,662,595,076",1630,Millenials
+18731,Paraguay,2001,male,5-14 years,4,0.59,"7,662,595,076",1630,Millenials
+18732,Paraguay,2002,male,15-24 years,42,7.37,"6,325,151,760",1315,Millenials
+18733,Paraguay,2002,male,25-34 years,25,6.4,"6,325,151,760",1315,Generation X
+18734,Paraguay,2002,male,35-54 years,32,5.98,"6,325,151,760",1315,Boomers
+18735,Paraguay,2002,female,15-24 years,32,5.8,"6,325,151,760",1315,Millenials
+18736,Paraguay,2002,male,75+ years,2,4.76,"6,325,151,760",1315,Silent
+18737,Paraguay,2002,male,55-74 years,9,4.28,"6,325,151,760",1315,Silent
+18738,Paraguay,2002,female,25-34 years,11,2.88,"6,325,151,760",1315,Generation X
+18739,Paraguay,2002,female,55-74 years,6,2.82,"6,325,151,760",1315,Silent
+18740,Paraguay,2002,female,35-54 years,10,1.95,"6,325,151,760",1315,Boomers
+18741,Paraguay,2002,female,5-14 years,7,1.06,"6,325,151,760",1315,Millenials
+18742,Paraguay,2002,male,5-14 years,1,0.15,"6,325,151,760",1315,Millenials
+18743,Paraguay,2002,female,75+ years,0,0.0,"6,325,151,760",1315,Silent
+18744,Paraguay,2003,male,75+ years,7,15.89,"6,588,103,836",1339,Silent
+18745,Paraguay,2003,male,35-54 years,43,7.82,"6,588,103,836",1339,Boomers
+18746,Paraguay,2003,male,55-74 years,16,7.34,"6,588,103,836",1339,Silent
+18747,Paraguay,2003,male,15-24 years,39,6.66,"6,588,103,836",1339,Millenials
+18748,Paraguay,2003,female,15-24 years,31,5.46,"6,588,103,836",1339,Millenials
+18749,Paraguay,2003,male,25-34 years,16,4.0,"6,588,103,836",1339,Generation X
+18750,Paraguay,2003,male,5-14 years,8,1.16,"6,588,103,836",1339,Millenials
+18751,Paraguay,2003,female,25-34 years,4,1.02,"6,588,103,836",1339,Generation X
+18752,Paraguay,2003,female,35-54 years,5,0.95,"6,588,103,836",1339,Boomers
+18753,Paraguay,2003,female,5-14 years,4,0.6,"6,588,103,836",1339,Millenials
+18754,Paraguay,2003,female,55-74 years,1,0.45,"6,588,103,836",1339,Silent
+18755,Paraguay,2003,female,75+ years,0,0.0,"6,588,103,836",1339,Silent
+18756,Paraguay,2004,male,75+ years,7,15.26,"8,033,877,360",1598,Silent
+18757,Paraguay,2004,male,15-24 years,53,8.84,"8,033,877,360",1598,Millenials
+18758,Paraguay,2004,male,55-74 years,20,8.83,"8,033,877,360",1598,Silent
+18759,Paraguay,2004,male,25-34 years,34,8.28,"8,033,877,360",1598,Generation X
+18760,Paraguay,2004,female,15-24 years,40,6.88,"8,033,877,360",1598,Millenials
+18761,Paraguay,2004,male,35-54 years,35,6.21,"8,033,877,360",1598,Boomers
+18762,Paraguay,2004,female,35-54 years,16,2.95,"8,033,877,360",1598,Boomers
+18763,Paraguay,2004,female,25-34 years,9,2.25,"8,033,877,360",1598,Generation X
+18764,Paraguay,2004,female,55-74 years,5,2.2,"8,033,877,360",1598,Silent
+18765,Paraguay,2004,female,75+ years,1,1.7,"8,033,877,360",1598,Silent
+18766,Paraguay,2004,male,5-14 years,8,1.15,"8,033,877,360",1598,Millenials
+18767,Paraguay,2004,female,5-14 years,6,0.89,"8,033,877,360",1598,Millenials
+18768,Paraguay,2005,male,75+ years,7,14.78,"8,734,653,809",1704,Silent
+18769,Paraguay,2005,male,55-74 years,23,9.74,"8,734,653,809",1704,Silent
+18770,Paraguay,2005,male,15-24 years,54,8.81,"8,734,653,809",1704,Millenials
+18771,Paraguay,2005,female,15-24 years,44,7.41,"8,734,653,809",1704,Millenials
+18772,Paraguay,2005,male,35-54 years,40,6.95,"8,734,653,809",1704,Boomers
+18773,Paraguay,2005,male,25-34 years,24,5.68,"8,734,653,809",1704,Generation X
+18774,Paraguay,2005,female,25-34 years,13,3.17,"8,734,653,809",1704,Generation X
+18775,Paraguay,2005,female,35-54 years,14,2.52,"8,734,653,809",1704,Boomers
+18776,Paraguay,2005,female,5-14 years,10,1.48,"8,734,653,809",1704,Millenials
+18777,Paraguay,2005,female,55-74 years,3,1.27,"8,734,653,809",1704,Silent
+18778,Paraguay,2005,male,5-14 years,7,1.0,"8,734,653,809",1704,Millenials
+18779,Paraguay,2005,female,75+ years,0,0.0,"8,734,653,809",1704,Silent
+18780,Paraguay,2006,male,75+ years,8,16.26,"10,646,157,920",2038,Silent
+18781,Paraguay,2006,male,15-24 years,62,9.93,"10,646,157,920",2038,Millenials
+18782,Paraguay,2006,male,35-54 years,49,8.38,"10,646,157,920",2038,Boomers
+18783,Paraguay,2006,male,25-34 years,36,8.23,"10,646,157,920",2038,Generation X
+18784,Paraguay,2006,male,55-74 years,18,7.31,"10,646,157,920",2038,Silent
+18785,Paraguay,2006,female,15-24 years,28,4.63,"10,646,157,920",2038,Millenials
+18786,Paraguay,2006,female,55-74 years,8,3.26,"10,646,157,920",2038,Silent
+18787,Paraguay,2006,female,35-54 years,18,3.19,"10,646,157,920",2038,Boomers
+18788,Paraguay,2006,female,25-34 years,10,2.36,"10,646,157,920",2038,Generation X
+18789,Paraguay,2006,male,5-14 years,9,1.28,"10,646,157,920",2038,Millenials
+18790,Paraguay,2006,female,5-14 years,5,0.74,"10,646,157,920",2038,Millenials
+18791,Paraguay,2006,female,75+ years,0,0.0,"10,646,157,920",2038,Silent
+18792,Paraguay,2007,male,75+ years,9,17.77,"13,794,910,634",2599,Silent
+18793,Paraguay,2007,male,25-34 years,40,8.83,"13,794,910,634",2599,Generation X
+18794,Paraguay,2007,male,55-74 years,22,8.57,"13,794,910,634",2599,Silent
+18795,Paraguay,2007,male,15-24 years,44,6.95,"13,794,910,634",2599,Millenials
+18796,Paraguay,2007,male,35-54 years,39,6.59,"13,794,910,634",2599,Boomers
+18797,Paraguay,2007,female,15-24 years,33,5.38,"13,794,910,634",2599,Millenials
+18798,Paraguay,2007,female,25-34 years,14,3.2,"13,794,910,634",2599,Generation X
+18799,Paraguay,2007,female,55-74 years,5,1.96,"13,794,910,634",2599,Silent
+18800,Paraguay,2007,female,5-14 years,9,1.33,"13,794,910,634",2599,Generation Z
+18801,Paraguay,2007,female,35-54 years,7,1.22,"13,794,910,634",2599,Boomers
+18802,Paraguay,2007,male,5-14 years,5,0.71,"13,794,910,634",2599,Generation Z
+18803,Paraguay,2007,female,75+ years,0,0.0,"13,794,910,634",2599,Silent
+18804,Paraguay,2008,male,75+ years,7,13.47,"18,504,130,753",3438,Silent
+18805,Paraguay,2008,male,25-34 years,43,9.16,"18,504,130,753",3438,Generation X
+18806,Paraguay,2008,male,55-74 years,22,8.21,"18,504,130,753",3438,Silent
+18807,Paraguay,2008,male,15-24 years,50,7.8,"18,504,130,753",3438,Millenials
+18808,Paraguay,2008,male,35-54 years,36,6.03,"18,504,130,753",3438,Boomers
+18809,Paraguay,2008,female,15-24 years,27,4.36,"18,504,130,753",3438,Millenials
+18810,Paraguay,2008,female,55-74 years,7,2.64,"18,504,130,753",3438,Silent
+18811,Paraguay,2008,female,35-54 years,13,2.25,"18,504,130,753",3438,Boomers
+18812,Paraguay,2008,female,25-34 years,7,1.55,"18,504,130,753",3438,Generation X
+18813,Paraguay,2008,female,75+ years,1,1.52,"18,504,130,753",3438,Silent
+18814,Paraguay,2008,female,5-14 years,7,1.04,"18,504,130,753",3438,Generation Z
+18815,Paraguay,2008,male,5-14 years,2,0.29,"18,504,130,753",3438,Generation Z
+18816,Paraguay,2009,male,75+ years,7,13.11,"15,929,902,138",2920,Silent
+18817,Paraguay,2009,male,55-74 years,32,11.47,"15,929,902,138",2920,Silent
+18818,Paraguay,2009,male,15-24 years,73,11.27,"15,929,902,138",2920,Millenials
+18819,Paraguay,2009,male,25-34 years,43,8.84,"15,929,902,138",2920,Generation X
+18820,Paraguay,2009,male,35-54 years,53,8.77,"15,929,902,138",2920,Boomers
+18821,Paraguay,2009,female,15-24 years,33,5.27,"15,929,902,138",2920,Millenials
+18822,Paraguay,2009,female,25-34 years,12,2.56,"15,929,902,138",2920,Generation X
+18823,Paraguay,2009,female,35-54 years,14,2.4,"15,929,902,138",2920,Boomers
+18824,Paraguay,2009,female,55-74 years,6,2.17,"15,929,902,138",2920,Silent
+18825,Paraguay,2009,female,5-14 years,5,0.75,"15,929,902,138",2920,Generation Z
+18826,Paraguay,2009,male,5-14 years,5,0.72,"15,929,902,138",2920,Generation Z
+18827,Paraguay,2009,female,75+ years,0,0.0,"15,929,902,138",2920,Silent
+18828,Paraguay,2010,male,75+ years,6,10.9,"20,030,528,043",3619,Silent
+18829,Paraguay,2010,male,15-24 years,54,8.24,"20,030,528,043",3619,Millenials
+18830,Paraguay,2010,male,25-34 years,36,7.16,"20,030,528,043",3619,Generation X
+18831,Paraguay,2010,male,55-74 years,20,6.89,"20,030,528,043",3619,Silent
+18832,Paraguay,2010,male,35-54 years,42,6.86,"20,030,528,043",3619,Generation X
+18833,Paraguay,2010,female,15-24 years,30,4.74,"20,030,528,043",3619,Millenials
+18834,Paraguay,2010,female,75+ years,2,2.88,"20,030,528,043",3619,Silent
+18835,Paraguay,2010,female,35-54 years,13,2.2,"20,030,528,043",3619,Generation X
+18836,Paraguay,2010,female,55-74 years,6,2.09,"20,030,528,043",3619,Silent
+18837,Paraguay,2010,female,25-34 years,9,1.86,"20,030,528,043",3619,Generation X
+18838,Paraguay,2010,female,5-14 years,3,0.45,"20,030,528,043",3619,Generation Z
+18839,Paraguay,2010,male,5-14 years,2,0.29,"20,030,528,043",3619,Generation Z
+18840,Paraguay,2011,male,75+ years,9,15.68,"25,099,681,461",4474,Silent
+18841,Paraguay,2011,male,15-24 years,84,12.71,"25,099,681,461",4474,Millenials
+18842,Paraguay,2011,male,25-34 years,57,10.98,"25,099,681,461",4474,Millenials
+18843,Paraguay,2011,male,35-54 years,47,7.55,"25,099,681,461",4474,Generation X
+18844,Paraguay,2011,male,55-74 years,18,5.99,"25,099,681,461",4474,Boomers
+18845,Paraguay,2011,female,15-24 years,32,5.02,"25,099,681,461",4474,Millenials
+18846,Paraguay,2011,female,25-34 years,18,3.61,"25,099,681,461",4474,Millenials
+18847,Paraguay,2011,female,35-54 years,14,2.33,"25,099,681,461",4474,Generation X
+18848,Paraguay,2011,female,55-74 years,6,2.03,"25,099,681,461",4474,Boomers
+18849,Paraguay,2011,male,5-14 years,7,1.02,"25,099,681,461",4474,Generation Z
+18850,Paraguay,2011,female,5-14 years,6,0.91,"25,099,681,461",4474,Generation Z
+18851,Paraguay,2011,female,75+ years,0,0.0,"25,099,681,461",4474,Silent
+18852,Paraguay,2012,male,75+ years,7,11.69,"24,595,319,574",4319,Silent
+18853,Paraguay,2012,male,15-24 years,62,9.29,"24,595,319,574",4319,Millenials
+18854,Paraguay,2012,male,25-34 years,41,7.66,"24,595,319,574",4319,Millenials
+18855,Paraguay,2012,male,35-54 years,47,7.41,"24,595,319,574",4319,Generation X
+18856,Paraguay,2012,male,55-74 years,20,6.43,"24,595,319,574",4319,Boomers
+18857,Paraguay,2012,female,15-24 years,41,6.38,"24,595,319,574",4319,Millenials
+18858,Paraguay,2012,female,75+ years,3,4.03,"24,595,319,574",4319,Silent
+18859,Paraguay,2012,female,25-34 years,17,3.3,"24,595,319,574",4319,Millenials
+18860,Paraguay,2012,female,55-74 years,8,2.61,"24,595,319,574",4319,Boomers
+18861,Paraguay,2012,female,35-54 years,12,1.96,"24,595,319,574",4319,Generation X
+18862,Paraguay,2012,male,5-14 years,10,1.47,"24,595,319,574",4319,Generation Z
+18863,Paraguay,2012,female,5-14 years,7,1.07,"24,595,319,574",4319,Generation Z
+18864,Paraguay,2013,male,75+ years,11,17.6,"28,965,906,502",5006,Silent
+18865,Paraguay,2013,male,15-24 years,88,13.07,"28,965,906,502",5006,Millenials
+18866,Paraguay,2013,male,25-34 years,60,10.9,"28,965,906,502",5006,Millenials
+18867,Paraguay,2013,male,55-74 years,34,10.57,"28,965,906,502",5006,Boomers
+18868,Paraguay,2013,male,35-54 years,46,7.09,"28,965,906,502",5006,Generation X
+18869,Paraguay,2013,female,15-24 years,34,5.24,"28,965,906,502",5006,Millenials
+18870,Paraguay,2013,female,75+ years,2,2.59,"28,965,906,502",5006,Silent
+18871,Paraguay,2013,female,35-54 years,14,2.24,"28,965,906,502",5006,Generation X
+18872,Paraguay,2013,female,5-14 years,14,2.14,"28,965,906,502",5006,Generation Z
+18873,Paraguay,2013,female,25-34 years,8,1.51,"28,965,906,502",5006,Millenials
+18874,Paraguay,2013,female,55-74 years,4,1.26,"28,965,906,502",5006,Boomers
+18875,Paraguay,2013,male,5-14 years,8,1.18,"28,965,906,502",5006,Generation Z
+18876,Paraguay,2014,male,15-24 years,104,15.33,"30,881,166,852",5254,Millenials
+18877,Paraguay,2014,male,25-34 years,62,10.97,"30,881,166,852",5254,Millenials
+18878,Paraguay,2014,male,35-54 years,60,9.04,"30,881,166,852",5254,Generation X
+18879,Paraguay,2014,male,55-74 years,28,8.42,"30,881,166,852",5254,Boomers
+18880,Paraguay,2014,male,75+ years,5,7.69,"30,881,166,852",5254,Silent
+18881,Paraguay,2014,female,15-24 years,40,6.13,"30,881,166,852",5254,Millenials
+18882,Paraguay,2014,female,35-54 years,27,4.22,"30,881,166,852",5254,Generation X
+18883,Paraguay,2014,female,25-34 years,20,3.67,"30,881,166,852",5254,Millenials
+18884,Paraguay,2014,female,55-74 years,11,3.36,"30,881,166,852",5254,Boomers
+18885,Paraguay,2014,female,5-14 years,12,1.84,"30,881,166,852",5254,Generation Z
+18886,Paraguay,2014,male,5-14 years,10,1.48,"30,881,166,852",5254,Generation Z
+18887,Paraguay,2014,female,75+ years,0,0.0,"30,881,166,852",5254,Silent
