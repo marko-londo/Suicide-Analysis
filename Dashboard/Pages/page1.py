@@ -31,7 +31,9 @@ Through intuitive visualizations and user-friendly features, you will be able to
 
 - Explore by State and Age: Dive into suicide data across different states and
 age ranges to identify patterns, outliers, and potential influencing factors.
-
+- Compare Suicide Rates to Economic Conditions: Examine the relationship
+between economic duress and perceivable psychological distress, gaining 
+insights into the complex  interplay of societal factors and their impact on mental health over time.
 - Global Comparisons: Gain a global perspective by comparing suicide rates with other countries, highlighting both shared challenges and unique differences.
 - Gender Insights: Examine suicide data through a gender lens, recognizing the
 distinct experiences and vulnerabilities that different genders face.

@@ -1,12 +1,13 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import altair as alt
 
 def show():
     df = pd.read_csv(r"../Resources/Clean/suicides_by_age_state_pop.csv")
 
     st.markdown("<h1 style='text-align: center;'>U.S. Suicide Data by Year and Age Group<br><br></h1>", unsafe_allow_html=True)
-    st.markdown("""By interacting with the choropleth map and box chart, we can
+    st.markdown("""By interacting with the choropleth map and box chart below, we can
                 uncover critical insights such as:""")
 
     st.markdown("""- Identifying states with high or low suicide rates in a
@@ -35,7 +36,7 @@ def show():
 
 
 
-    col1, col2 = st.columns(2)
+    col1, col2 = st.columns([0.65, 0.35])
 
 
 
@@ -45,7 +46,7 @@ def show():
                                     color=selected_age_group, hover_name='Location', hover_data=[selected_age_group],
                                     title=f'United States ({selected_year}) - Data: {selected_age_group}',
                                     color_continuous_scale=custom_color_scale,
-                                    width=670)
+                                    width=700)
         fig_choropleth.add_annotation((dict(font=dict(color='orchid',size=13),
                                                 x=0,
                                                 y=-0.12,
