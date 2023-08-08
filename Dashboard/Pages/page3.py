@@ -5,7 +5,7 @@ from holoviews import opts
 from bokeh.sampledata.unemployment1948 import data as bokeh_unemployment_df
 import hvplot.pandas
 
-us_suicide_rates = pd.read_csv(r"../Resources/Clean/us_suicide_rates_1985-2016.csv")
+us_suicide_rates = pd.read_csv(r"../Resources/Clean/us_suicide_rates_1985-20161.csv")
 
 hv.extension("bokeh")
 
@@ -55,12 +55,12 @@ def show():
             "<span style='font-size: 14px;'>"
             """In the visual representation of unemployment rates, we
                  observe two significant peaks in economic history.
-                 The first peak occurred during the years 1982-1983, a time
+                 The first peak occurred ***during the years 1982-1983***, a time
                  marked by economic turmoil and recession.
                  The unemployment rate surged during this period, reflecting
                  the challenges faced by the job market.
-                 The second notable peak emerged after the global financial
-                 crisis of 2007-2008. This period saw widespread job
+                 The second notable peak emerged after the ***global financial
+                 crisis of 2007-2008***. This period saw widespread job
                  losses and economic uncertainty, resulting in a spike in
                  unemployment."""
             "</span>",
@@ -78,21 +78,21 @@ def show():
             "<span style='font-size: 14px;'>"
             """When observing the U.S. suicide rates over time, a striking correlation
                  emerges between suicides and economic instability.
-                 The years 1986-1987 stand as a poignant example, where a surge
+                 ***The years 1986-1987*** stand as a poignant example, where a surge
                  in suicide rates
                  aligns with a period marked by economic turmoil. This link
                  between financial
                  instability and heightened psychological distress is
                  unmistakable, highlighting the far-reaching consequences
                  of economic challenges on individual well-being. Moreover,
-                 the subsequent downward trajectory in suicide rates from 1987
-                 to 2000
+                 the subsequent downward trajectory in suicide rates ***from 1987
+                 to 2000***
                  coincides with a period of relative economic stability,
                  illustrating the
                  potential positive impact of a conducive economic
                  environment on mental health. Nevertheless, the upturn in
                  suicide rates
-                 around 2006 serves as a poignant reminder that the intricate
+                 ***around 2006*** serves as a poignant reminder that the intricate
                  relationship
                  between economic factors and mental health remains a critical
                  societal concern,

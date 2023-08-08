@@ -1,43 +1,67 @@
-
 import streamlit as st
+import pandas as pd
+import holoviews as hv
+import hvplot.pandas
+
+us_suicides_total = pd.read_csv(r"../Resources/Clean/us_suicides_1985-2021.csv")
+
 
 def show():
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        st.write(' ')
+        st.write(" ")
 
     with col2:
-        st.image("https://github.com/marko-londo/Suicide-Analysis/blob/main/Resources/Images/candles.png?raw=true", use_column_width="auto")
+        st.image(
+            "https://github.com/marko-londo/Suicide-Analysis/blob/main/Resources/Images/candles.png?raw=true",
+            use_column_width="auto",
+        )
 
     with col3:
-        st.write(' ')
-    st.markdown("<br><br>", unsafe_allow_html=True)
-    st.write("""Welcome to the interactive Suicide Data Dashboard – a
-            powerful tool designed to shed light on a pressing and often
-            overlooked societal issue. 
-            The mission is to provide you with a comprehensive understanding
-            of suicide data, 
-            enabling you to explore key insights and trends from various angles.
+        st.write(" ")
+    st.markdown(
+        "<h1 style='text-align: center;'>Suicide Data Dashboard<br><br></h1>",
+        unsafe_allow_html=True,
+    )
 
-In a world increasingly driven by data, it is crucial to confront complex
-topics like suicide with informed analysis. 
-This dashboard serves as a gateway to a wealth of information, offering
-insights into suicide rates by state, 
-age groups, and gender. The goal is to foster awareness, encourage informed discussions, and inspire action toward mental health
-support and suicide prevention.
+    st.markdown(
+        """
 
-Through intuitive visualizations and user-friendly features, you will be able to:
+    ---
 
-- Explore by State and Age: Dive into suicide data across different states and
-age ranges to identify patterns, outliers, and potential influencing factors.
-- Compare Suicide Rates to Economic Conditions: Examine the relationship
-between economic duress and perceivable psychological distress, gaining 
-insights into the complex  interplay of societal factors and their impact on mental health over time.
-- Global Comparisons: Gain a global perspective by comparing suicide rates with other countries, highlighting both shared challenges and unique differences.
-- Gender Insights: Examine suicide data through a gender lens, recognizing the
-distinct experiences and vulnerabilities that different genders face.
+    """
+    )
 
-As you navigate through this dashboard, remember that each data point represents a life, a story, and a call to action. By engaging with this tool, you contribute to the ongoing dialogue on mental health, destigmatizing discussions around suicide, and fostering a more compassionate society.
+    us_suicides_total = pd.read_csv(r"../Resources/Clean/us_suicides_1985-2021.csv")
 
-Let us embark on this journey of understanding together. Click, explore, learn, and be part of the change we hope to inspire through this dashboard.""")
+    hv_plot = us_suicides_total.hvplot(
+        x="Year", y="Number of Suicides", rot=45, title="Total Suicides, U.S."
+    ).opts(height=420, width=620, color="crimson")
+    col4, col5 = st.columns([0.60, 0.45])
+    with col4:
+        st.write(hv.render(hv_plot, backend="bokeh"))
+
+    with col5:
+        st.markdown(
+            """
+Welcome to the interactive Suicide Data Dashboard—a powerful resource tailored
+to illuminate the pressing issue of suicide. 
+Through intuitive visualizations, this tool facilitates a deep exploration of
+vital aspects in suicide research, such as:
+- Suicide trends with linear regression
+analysis. 
+- Insights from U.S. suicide data, dissected by year and age
+group. 
+- Correlation between U.S. suicide rates and unemployment,
+shedding light on potential societal links. 
+- Gaining a global perspective by comparing U.S. suicide rates to those of other
+countries. 
+- Interplay between U.S. divorce rates and suicide
+rates, revealing intricate connections within this critical conversation. 
+
+Harness the knowledge provided here to engage in informed discussions, drive
+awareness, and inspire action for mental health support and prevention.
+To get started, use the sidebar to navigate between pages.
+""")
+
