@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import holoviews as hv
 import hvplot.pandas
-from bokeh.io import curdoc
-from bokeh.plotting import figure, output_file, show
+
 
 
 def show():

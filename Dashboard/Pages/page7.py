@@ -82,15 +82,13 @@ def show():
                 mental_illness["Location"].isin(selected_states)
             ]
 
-            # Apply custom number format for y-axis labels (percentage as whole numbers)
             custom_y_format = alt.Y(
                 selected_severity, title="Percentage", axis=alt.Axis(format="%")
             )
 
-            # Define a color scale from very light pink to dark crimson
             color_scale = alt.Scale(
-                domain=[0, 1],  # Assuming your data values range from 0 to 100
-                range=["#AEAFD7", "#372654"],  # Very light pink to dark crimson
+                domain=[0, 1],
+                range=["#AEAFD7", "#372654"],
             )
 
             custom_y_format = alt.Y(

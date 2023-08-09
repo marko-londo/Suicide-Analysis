@@ -60,7 +60,6 @@ def show():
     col1, col2 = st.columns([0.65, 0.35])
 
     with col1:
-        # Choropleth Map
         fig_choropleth = px.choropleth(
             filtered_df,
             locationmode="USA-states",
@@ -89,11 +88,9 @@ def show():
             )
         )
 
-        # Display the choropleth map
         st.plotly_chart(fig_choropleth)
 
     with col2:
-        # Bar Chart
         selected_states = st.multiselect("Select states:", df["Location"].unique())
         if selected_states:
             filtered_states_df = filtered_df[

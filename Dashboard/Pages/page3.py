@@ -30,18 +30,15 @@ def show():
     )
     col1, col2 = st.columns([0.625, 0.375])
     col3, col4 = st.columns([0.625, 0.375])
-    # Transform the Bokeh sample data
     with col1:
         unemployment_data = bokeh_unemployment_df.copy()
         unemployment_data = unemployment_data.set_index("Year").drop("Annual", axis=1)
         unemployment_data = unemployment_data[unemployment_data.index >= 1980]
 
-        # Reset the index to create a multi-index DataFrame
         unemployment_data = unemployment_data.reset_index().melt(
             id_vars="Year", var_name="Month", value_name="Unemployment"
         )
 
-        # Create heatmap with HoloViews
         heatmap = hv.HeatMap(unemployment_data, ["Year", "Month"], "Unemployment").opts(
             opts.HeatMap(
                 tools=["hover"],
@@ -54,7 +51,6 @@ def show():
             )
         )
 
-        # Display the Bokeh plot using st.bokeh_chart
         st.bokeh_chart(hv.render(heatmap, backend="bokeh"))
 
     with col2:

@@ -30,6 +30,7 @@ def show():
     )
 
     col1, col2 = st.columns([0.65, 0.35])
+    
     with col1:
         color_map = {
             "Routed Calls": "cornflowerblue",
@@ -47,6 +48,7 @@ def show():
         fig1.update_yaxes(title_text="Value", scaleanchor="x", scaleratio=1)
         fig1.update_layout(title_text="988 Lifeline Metrics", width=725, height=420)
         st.plotly_chart(fig1)
+        
     with col2:
         custom_colors = ["cornflowerblue", "mediumpurple", "steelblue", "darkslateblue"]
         fig2 = px.pie(
@@ -60,7 +62,9 @@ def show():
         fig2.update_layout(title_text="Interaction Types", width=200, height=400)
 
         st.plotly_chart(fig2, use_container_width=True)
+        
     col3, col4 = st.columns([0.65, 0.35])
+    
     with col4:
         fig3 = px.bar(
             metrics_988,
@@ -72,6 +76,7 @@ def show():
         fig3.update_xaxes(title_text="Value")
         fig3.update_layout(width=450, height=400, showlegend=False)
         st.plotly_chart(fig3)
+        
     with col3:
         fig1 = px.line(
             metrics_988,

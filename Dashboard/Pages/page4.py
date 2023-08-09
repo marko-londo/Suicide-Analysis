@@ -38,7 +38,6 @@ def show():
 
     suicide_head = us_suicide_rates.head(22)
 
-    # Create the plots using hvplot
     divorces_plot = filtered_divorces.hvplot(
         x="Year", y="Divorces_per_1000", color="maroon"
     ).opts(width=570, title="Divorce Rates, 1985-2011")
@@ -46,10 +45,8 @@ def show():
         x="Year", y="Suicides per 100k", color="Violet"
     ).opts(width=570, title="Suicide Rates, 1985-2011")
 
-    # Combine the plots using hv.Layout
     combined_layout = hv.Layout(divorces_plot + suicide_plot)
 
-    # Display the combined layout using st.bokeh_chart()
     st.bokeh_chart(hv.render(combined_layout, backend="bokeh"))
 
     st.write(
