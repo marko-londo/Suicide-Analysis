@@ -1,0 +1,8 @@
+# Concatenating the dataframes to account for missing data
+
+us_suicides_8521 = pd.concat([us_suicides_8513, us_suicides_0521]).reset_index()
+us_suicides_8521["Country"] = "United States"
+us_suicides_8521 = us_suicides_8521[
+    ["Country", "Year", "Number of Suicides"]
+].reset_index(drop=True)
+# us_suicides_8521.to_csv("us_suicides_1985-2021.csv", index=False)

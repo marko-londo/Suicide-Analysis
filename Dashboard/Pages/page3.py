@@ -11,16 +11,23 @@ hv.extension("bokeh")
 
 
 def show():
-    st.markdown("<h1 style='text-align: center;'>U.S. Suicide Rates VS. Unemployment<br><br></h1>", unsafe_allow_html=True)
-    st.markdown(""" On this page, we will compare the relationship between
+    st.markdown(
+        "<h1 style='text-align: center;'>U.S. Suicide Rates VS. Unemployment<br><br></h1>",
+        unsafe_allow_html=True,
+    )
+    st.markdown(
+        """ On this page, we will compare the relationship between
                 economic conditions and suicide rates in the United States. The
-                visualizations below aim to demonstrate how economic fluctuations may influence psychological well-being.""")
+                visualizations below aim to demonstrate how economic fluctuations may influence psychological well-being."""
+    )
 
-    st.markdown("""
+    st.markdown(
+        """
 
     ---
 
-    """)
+    """
+    )
     col1, col2 = st.columns([0.625, 0.375])
     col3, col4 = st.columns([0.625, 0.375])
     # Transform the Bokeh sample data

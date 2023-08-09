@@ -1,0 +1,30 @@
+# Extracting Canada suicides from World suicides
+
+canada_suicides_8516 = world_suicides[world_suicides["Country"] == "Canada"].copy()
+# canada_suicides_8516.to_csv("canada_suicides_1985-2016(master).csv")
+
+# Extracting yearly total suicides for Canada from 1985-2016
+
+canada_suicides_8516 = (
+    canada_suicides_8516.groupby("Year")["Number of Suicides"].sum().reset_index()
+)
+canada_suicides_8516["Country"] = "Canada"
+canada_suicides_8516 = canada_suicides_8516[
+    ["Country", "Year", "Number of Suicides"]
+].reset_index(drop=True)
+# canada_suicides_8516.to_csv("canada_suicides_1985-2016.csv", index=False)
+
+# Extracting Canada suicide rates from World suicides
+
+canada_suicide_rates_8516 = world_suicides[world_suicides["Country"] == "Canada"].copy()
+canada_suicide_rates_8516 = (
+    canada_suicide_rates_8516.groupby("Year")["Suicides per 100k"]
+    .sum()
+    .round(2)
+    .reset_index()
+)
+canada_suicide_rates_8516["Country"] = "Canada"
+canada_suicide_rates_8516 = canada_suicide_rates_8516[
+    ["Country", "Year", "Suicides per 100k"]
+].reset_index(drop=True)
+# canada_suicide_rates_8516.to_csv("canada_suicide_rates_1985-2016.csv", index=False)

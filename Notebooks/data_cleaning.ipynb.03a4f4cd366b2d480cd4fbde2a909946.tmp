@@ -1,0 +1,15 @@
+# Extracting yearly total suicides for the US from 2014-2021
+
+state_suicides_0521 = pd.read_csv(
+    r"../Resources/Originals/state_suicides_2005-2021.csv"
+)
+state_suicides_0521.drop(["URL", "RATE"], axis=1, inplace=True)
+state_suicides_0521["DEATHS"] = state_suicides_0521["DEATHS"].str.replace(",", "")
+state_suicides_0521["DEATHS"] = state_suicides_0521["DEATHS"].str.replace('"', "")
+state_suicides_0521["DEATHS"] = pd.to_numeric(
+    state_suicides_0521["DEATHS"], errors="coerce"
+)
+us_suicides_0521 = state_suicides_0521.groupby("YEAR")["DEATHS"].sum().reset_index()
+us_suicides_0521 = us_suicides_0521[~(us_suicides_0521["YEAR"] == 2005)]
+column_mapping = {"YEAR": "Year", "DEATHS": "Number of Suicides"}
+us_suicides_0521 = us_suicides_0521.rename(columns=column_mapping)

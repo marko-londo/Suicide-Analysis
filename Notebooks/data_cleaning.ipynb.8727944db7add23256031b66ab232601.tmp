@@ -1,0 +1,79 @@
+# Extracting US suicides from World suicides
+
+world_suicides = pd.read_csv(r"../Resources/Originals/world_suicides_1985-2016.csv")
+world_suicides.drop(["Population", "Country-Year"], axis=1, inplace=True)
+us_suicides_8516 = world_suicides[world_suicides["Country"] == "United States"].copy()
+# us_suicides_8516.to_csv("us_suicides_1985-2016(master).csv")
+
+# Extracting yearly total suicides for the US from 1985-2013
+
+us_suicides_8513 = us_suicides_8516.drop(
+    [
+        "Sex",
+        "Age",
+        "Suicides per 100k",
+        "GDP for Year ($)",
+        "GDP per Capita ($)",
+        "Generation",
+    ],
+    axis=1,
+)
+us_suicides_8513 = (
+    us_suicides_8513.groupby("Year")["Number of Suicides"].sum().reset_index()
+)
+us_suicides_8513 = us_suicides_8513[
+    ~((us_suicides_8513["Year"] == 2014) | (us_suicides_8513["Year"] == 2015))
+]
+
+# Extracting US suicide rates from World suicides
+
+us_suicide_rates_8516 = world_suicides[
+    world_suicides["Country"] == "United States"
+].copy()
+us_suicide_rates_8516 = (
+    us_suicide_rates_8516.groupby("Year")["Suicides per 100k"]
+    .sum()
+    .round(2)
+    .reset_index()
+)
+us_suicide_rates_8516["Country"] = "United States"
+us_suicide_rates_8516 = us_suicide_rates_8516[
+    ["Country", "Year", "Suicides per 100k"]
+].reset_index(drop=True)
+# us_suicide_rates_8516.to_csv("us_suicide_rates_1985-2016.csv", index=False)
+
+# Extracting US suicide rates from World suicides (1999-2016)
+
+excluded_years = [
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+]
+us_suicide_rates_8516 = world_suicides[
+    world_suicides["Country"] == "United States"
+].copy()
+us_suicide_rates_8516 = (
+    us_suicide_rates_8516.groupby("Year")["Suicides per 100k"]
+    .sum()
+    .round(2)
+    .reset_index()
+)
+us_suicide_rates_8516 = us_suicide_rates_8516[
+    ~us_suicide_rates_8516["Year"].isin(excluded_years)
+]
+us_suicide_rates_8516["Country"] = "United States"
+us_suicide_rates_8516 = us_suicide_rates_8516[
+    ["Country", "Year", "Suicides per 100k"]
+].reset_index(drop=True)
+# us_suicide_rates_8516.to_csv("us_suicide_rates_1999-2016.csv", index=False)

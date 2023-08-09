@@ -8,7 +8,7 @@ import altair as alt
 mental_illness_us = pd.read_csv(
     r"../Resources/Clean/untreated_mental_illness_total_2018-2019.csv"
 )
-mental_illness =  pd.read_csv(
+mental_illness = pd.read_csv(
     r"../Resources/Clean/untreated_mental_illness_states_2018-2019.csv"
 )
 
@@ -36,7 +36,7 @@ def show():
     """
     )
     col1, col2 = st.columns([0.85, 0.25])
-    
+
     with col1:
         barplot = mental_illness_us.hvplot.bar().opts(
             colorbar=True,
@@ -44,18 +44,21 @@ def show():
             ylim=(0, 100),
             ylabel="Percent",
             xlabel="Severity",
-            height=420, width=850,
+            height=420,
+            width=850,
             title="Adults With Mental Illness Who Did Not Receive Treatment, 2018-2019",
         )
         st.write(hv.render(barplot, backend="bokeh"))
     with col2:
-        st.markdown("""
+        st.markdown(
+            """
                     - 67.9 percent of adults with mild mental illness
                       did not receive treatment.
                     - 53.5 percent of adults with moderate mental
                       illness did not receive treatment.
                     - 35 percent of adults (nearly 4 million) with severe mental illness did not receive treatment.
-                    """)
+                    """
+        )
     st.markdown(
         """
 
@@ -63,35 +66,55 @@ def show():
 
     """
     )
-    
 
     col3, col4 = st.columns([0.15, 0.85])
-    
+
     with col3:
-        selected_severity = st.selectbox("Select Severity Level:", ["Mild", "Moderate", "Serious"])
-        selected_states = st.multiselect("Select States:", mental_illness["Location"].unique())
+        selected_severity = st.selectbox(
+            "Select Severity Level:", ["Mild", "Moderate", "Serious"]
+        )
+        selected_states = st.multiselect(
+            "Select States:", mental_illness["Location"].unique()
+        )
     with col4:
         if selected_states:
-            filtered_states_df = mental_illness[mental_illness["Location"].isin(selected_states)]
+            filtered_states_df = mental_illness[
+                mental_illness["Location"].isin(selected_states)
+            ]
 
             # Apply custom number format for y-axis labels (percentage as whole numbers)
-            custom_y_format = alt.Y(selected_severity, title="Percentage", axis=alt.Axis(format="%"))
+            custom_y_format = alt.Y(
+                selected_severity, title="Percentage", axis=alt.Axis(format="%")
+            )
 
             # Define a color scale from very light pink to dark crimson
             color_scale = alt.Scale(
                 domain=[0, 1],  # Assuming your data values range from 0 to 100
-                range=["#AEAFD7", "#372654"]  # Very light pink to dark crimson
+                range=["#AEAFD7", "#372654"],  # Very light pink to dark crimson
             )
 
-            custom_y_format = alt.Y(selected_severity, title="Percentage", axis=alt.Axis(format="%"), scale=alt.Scale(domain=[0, 1]))
+            custom_y_format = alt.Y(
+                selected_severity,
+                title="Percentage",
+                axis=alt.Axis(format="%"),
+                scale=alt.Scale(domain=[0, 1]),
+            )
 
-            bar_chart = alt.Chart(filtered_states_df).mark_bar().encode(
-                x=alt.X("Location", title="States"),
-                y=custom_y_format,
-                color=alt.Color(selected_severity, title=selected_severity, scale=color_scale),
-                tooltip=["Location", selected_severity]
-            ).properties(
-                title=f"{selected_severity} Mental Illness by State",
-                width=500, height=650
+            bar_chart = (
+                alt.Chart(filtered_states_df)
+                .mark_bar()
+                .encode(
+                    x=alt.X("Location", title="States"),
+                    y=custom_y_format,
+                    color=alt.Color(
+                        selected_severity, title=selected_severity, scale=color_scale
+                    ),
+                    tooltip=["Location", selected_severity],
+                )
+                .properties(
+                    title=f"{selected_severity} Mental Illness by State",
+                    width=500,
+                    height=650,
+                )
             )
             st.altair_chart(bar_chart, use_container_width=True)

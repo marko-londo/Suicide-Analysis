@@ -7,7 +7,7 @@ us_suicides_total = pd.read_csv(r"../Resources/Clean/us_suicides_1985-2021.csv")
 
 
 def show():
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3 = st.columns([0.3, 1, 0.1])
 
     with col1:
         st.write(" ")
@@ -37,7 +37,7 @@ def show():
 
     hv_plot = us_suicides_total.hvplot(
         x="Year", y="Number of Suicides", rot=45, title="Total Suicides, U.S."
-    ).opts(height=420, width=620, color="crimson")
+    ).opts(height=420, width=620, color="crimson", bgcolor="#121212")
     col4, col5 = st.columns([0.60, 0.45])
     with col4:
         st.write(hv.render(hv_plot, backend="bokeh"))
@@ -63,5 +63,5 @@ rates, revealing intricate connections within this critical conversation.
 Harness the knowledge provided here to engage in informed discussions, drive
 awareness, and inspire action for mental health support and prevention.
 To get started, use the sidebar to navigate between pages.
-""")
-
+"""
+        )

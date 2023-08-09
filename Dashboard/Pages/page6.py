@@ -7,6 +7,7 @@ from bokeh.io import push_notebook, show, output_notebook
 
 output_notebook()
 
+
 def show():
     st.markdown(
         "<h1 style='text-align: center;'>Exploring Suicides Trends Through Linear Regression<br><br></h1>",
@@ -38,12 +39,30 @@ def show():
 
     y_pred = model.predict(X)
 
-    source_actual = ColumnDataSource(data=dict(x=us_suicides_total["Year"], y=us_suicides_total["Number of Suicides"]))
-    source_predicted = ColumnDataSource(data=dict(x=us_suicides_total["Year"], y=y_pred))
+    source_actual = ColumnDataSource(
+        data=dict(
+            x=us_suicides_total["Year"], y=us_suicides_total["Number of Suicides"]
+        )
+    )
+    source_predicted = ColumnDataSource(
+        data=dict(x=us_suicides_total["Year"], y=y_pred)
+    )
 
-    p = figure(title="Linear Regression Analysis", x_axis_label="Year", y_axis_label="Number of Suicides", plot_width=1000, plot_height=500)
+    p = figure(
+        title="Linear Regression Analysis",
+        x_axis_label="Year",
+        y_axis_label="Number of Suicides",
+        plot_width=1000,
+        plot_height=500,
+    )
     p.scatter(x="x", y="y", source=source_actual, legend_label="Actual")
-    p.line(x="x", y="y", source=source_predicted, line_color="red", legend_label="Predicted")
+    p.line(
+        x="x",
+        y="y",
+        source=source_predicted,
+        line_color="red",
+        legend_label="Predicted",
+    )
 
     p.legend.title = "Trend"
     p.legend.label_text_font_size = "10pt"

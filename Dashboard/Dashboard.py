@@ -30,8 +30,7 @@ def main():
         "Divorce Rates VS. Suicide Rates",
         "Male Vs. Female Suicides",
         "Untreated Mental Illness in the United States",
-        "988 Suicide & Crisis Lifeline Metrics"
-        
+        "988 Suicide & Crisis Lifeline Metrics",
     ]
     selected_page = st.sidebar.radio("Select Page", page_options)
 
@@ -54,6 +53,7 @@ def main():
         page8.show()
     elif selected_page == "988 Suicide & Crisis Lifeline Metrics":
         page9.show()
-                
+
+
 if __name__ == "__main__":
     main()

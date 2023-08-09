@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import holoviews as hv
 import hvplot.pandas
+from bokeh.io import curdoc
+from bokeh.plotting import figure, output_file, show
+
 
 def show():
     st.markdown(
@@ -32,18 +35,36 @@ def show():
             us_suicides_males.groupby("Year")["Number of Suicides"].sum().reset_index()
         )
         us_suicides_females = (
-            us_suicides_females.groupby("Year")["Number of Suicides"].sum().reset_index()
+            us_suicides_females.groupby("Year")["Number of Suicides"]
+            .sum()
+            .reset_index()
         )
-        plots = us_suicides_males.hvplot(x="Year", y="Number of Suicides", color="steelblue").opts(height=420, width=850) * us_suicides_females.hvplot(
-            x="Year", y="Number of Suicides", color="mediumpurple"
-        ) * us_suicides_males.hvplot.scatter(x="Year", y="Number of Suicides", color="cornflowerblue") * us_suicides_females.hvplot.scatter(x="Year", y="Number of Suicides", color="mediumslateblue")
+        plots = (
+            us_suicides_males.hvplot(
+                x="Year", y="Number of Suicides", color="steelblue"
+            ).opts(height=420, width=850, bgcolor="#121212")
+            * us_suicides_females.hvplot(
+                x="Year", y="Number of Suicides", color="mediumpurple"
+            )
+            * us_suicides_males.hvplot.scatter(
+                x="Year", y="Number of Suicides", color="cornflowerblue"
+            )
+            * us_suicides_females.hvplot.scatter(
+                x="Year", y="Number of Suicides", color="mediumslateblue"
+            )
+        )
+
         st.write(hv.render(plots, backend="bokeh"))
+
     with col2:
         st.markdown("##### Legend:")
         st.markdown("- <font color='steelblue'>Male</font>", unsafe_allow_html=True)
-        st.markdown("- <font color='mediumpurple'>Female</font>", unsafe_allow_html=True)
-    
-    st.markdown("""
+        st.markdown(
+            "- <font color='mediumpurple'>Female</font>", unsafe_allow_html=True
+        )
+
+    st.markdown(
+        """
                 Key insights:
         - Males are much more likely to commit suicide than females.
         - Male suicides have increased by approximately 46.9% from 1985 to 2015.

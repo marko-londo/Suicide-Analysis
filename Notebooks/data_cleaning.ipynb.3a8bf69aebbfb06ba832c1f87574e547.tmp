@@ -1,0 +1,34 @@
+# Extracting Russia suicides from World suicides
+
+russia_suicides_8516 = world_suicides[
+    world_suicides["Country"] == "Russian Federation"
+].copy()
+# russia_suicides_8516.to_csv("russia_suicides_1985-2016(master).csv")
+
+# Extracting yearly total suicides for Russia from 1985-2016
+
+russia_suicides_8516 = (
+    russia_suicides_8516.groupby("Year")["Number of Suicides"].sum().reset_index()
+)
+russia_suicides_8516["Country"] = "Russia"
+russia_suicides_8516 = russia_suicides_8516[
+    ["Country", "Year", "Number of Suicides"]
+].reset_index(drop=True)
+# russia_suicides_8516.to_csv("russia_suicides_1985-2016.csv", index=False)
+
+# Extracting Russia suicide rates from World suicides
+
+russia_suicide_rates_8516 = world_suicides[
+    world_suicides["Country"] == "Russian Federation"
+].copy()
+russia_suicide_rates_8516 = (
+    russia_suicide_rates_8516.groupby("Year")["Suicides per 100k"]
+    .sum()
+    .round(2)
+    .reset_index()
+)
+russia_suicide_rates_8516["Country"] = "Russia"
+russia_suicide_rates_8516 = russia_suicide_rates_8516[
+    ["Country", "Year", "Suicides per 100k"]
+].reset_index(drop=True)
+# russia_suicide_rates_8516.to_csv("russia_suicide_rates_1985-2016.csv", index=False)

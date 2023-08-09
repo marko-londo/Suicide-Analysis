@@ -1,0 +1,36 @@
+# Extracting South Korea suicides from World suicides
+
+south_korea_suicides_8516 = world_suicides[
+    world_suicides["Country"] == "Republic of Korea"
+].copy()
+# south_korea_suicides_8516.to_csv("south_korea_suicides_1985-2016(master).csv")
+
+# Extracting yearly total suicides for South Korea from 1985-2016
+
+south_korea_suicides_8516 = (
+    south_korea_suicides_8516.groupby("Year")["Number of Suicides"].sum().reset_index()
+)
+south_korea_suicides_8516["Country"] = "South Korea"
+south_korea_suicides_8516 = south_korea_suicides_8516[
+    ["Country", "Year", "Number of Suicides"]
+].reset_index(drop=True)
+# south_korea_suicides_8516.to_csv("south_korea_suicides_1985-2016.csv", index=False)
+
+# Extracting South Korea suicide rates from World suicides
+
+south_korea_suicide_rates_8516 = world_suicides[
+    world_suicides["Country"] == "Republic of Korea"
+].copy()
+south_korea_suicide_rates_8516 = (
+    south_korea_suicide_rates_8516.groupby("Year")["Suicides per 100k"]
+    .sum()
+    .round(2)
+    .reset_index()
+)
+south_korea_suicide_rates_8516["Country"] = "South Korea"
+south_korea_suicide_rates_8516 = south_korea_suicide_rates_8516[
+    ["Country", "Year", "Suicides per 100k"]
+].reset_index(drop=True)
+# south_korea_suicide_rates_8516.to_csv(
+#     "south_korea_suicide_rates_1985-2016.csv", index=False
+# )
