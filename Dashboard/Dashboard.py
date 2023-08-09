@@ -19,7 +19,6 @@ st.markdown(no_sidebar_style, unsafe_allow_html=True)
 
 
 def main():
-    # Add a sidebar
     st.sidebar.title("Navigation")
     page_options = [
         "Home",
@@ -34,7 +33,6 @@ def main():
     ]
     selected_page = st.sidebar.radio("Select Page", page_options)
 
-    # Show the selected page
     if selected_page == "Home":
         page1.show()
     elif selected_page == "Suicide Data by Year and Age Group":
